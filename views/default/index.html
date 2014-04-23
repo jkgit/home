@@ -1,0 +1,47 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,('message' in globals())}}
+{{extend 'layout.html'}}
+
+{{if 'message' in globals():}}
+
+{{=A('Watch Movie', _class='btn', target='wmResults', callback=URL('home', 'automate', 'call', args=('run', 'watchMovie')))}}
+<span id="wmResults"></span>
+<br/>
+
+{{=A('Goodnight', _class='btn', target="gnResults", callback=URL('home', 'automate', 'call', args=('run', 'goodnight')))}}
+<span id="gnResults"></span>
+
+<br/>
+
+{{=A('Wall Up', _class='btn', target="wallResults", callback=URL('home', 'automate', 'call', args=('run', 'wallUp')))}}
+<span id="wallResults"></span>
+
+<br/>
+
+{{=A('Wall Down', _class='btn', target="wallResults2", callback=URL('home', 'automate', 'call', args=('run', 'wallDown')))}}
+<span id="wallResults2"></span>
+
+<br/><br/>
+Notes :
+<ol>
+	<li>Use usb->serial db9 to control projector</li>
+	<li>Use pytomation to control insteon plc (running on win7 server)</li>
+	<li>Inter process communication or insert lirc command for wall</li>
+</ol>
+
+
+{{elif 'content' in globals():}}
+{{=content}}
+{{else:}}
+{{=BEAUTIFY(response._vars)}}
+{{pass}}
+
+{{block right_sidebar}}
+{{=A(T("Administrative Interface"), _href=URL('admin','default','index'), _class='btn',
+     _style='margin-top: 1em;')}}
+<h6>{{=T("Don't know what to do?")}}</h6>
+<ul>
+  <li>{{=A(T("Online examples"), _href=URL('examples','default','index'))}}</li>
+  <li><a href="http://web2py.com">web2py.com</a></li>
+  <li><a href="http://web2py.com/book">{{=T('Documentation')}}</a></li>
+</ul>
+{{end}}

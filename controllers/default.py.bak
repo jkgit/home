@@ -1,0 +1,83 @@
+# -*- coding: utf-8 -*-
+# this file is released under public domain and you can use without limitations
+
+#########################################################################
+## This is a sample controller
+## - index is the default action of any application
+## - user is required for authentication and authorization
+## - download is for downloading files uploaded in the db (does streaming)
+## - call exposes all registered services (none by default)
+#########################################################################
+import eiscp
+
+def index():
+    """
+    example action using the internationalization operator T and flash
+    rendered by views/default/index.html or views/generic.html
+
+    if you need a simple wiki simply replace the two lines below with:
+    return auth.wiki()
+    """
+    response.flash = T("Welcome to Home Automator!")
+    return dict(message=T('Home Automator'))
+
+
+def user():
+    """
+    exposes:
+    http://..../[app]/default/user/login
+    http://..../[app]/default/user/logout
+    http://..../[app]/default/user/register
+    http://..../[app]/default/user/profile
+    http://..../[app]/default/user/retrieve_password
+    http://..../[app]/default/user/change_password
+    http://..../[app]/default/user/manage_users (requires membership in
+    use @auth.requires_login()
+        @auth.requires_membership('group name')
+        @auth.requires_permission('read','table name',record_id)
+    to decorate functions that need access control
+    """
+    return dict(form=auth())
+
+
+def call():
+    """
+    exposes services. for example:
+    http://..../[app]/default/call/jsonrpc
+    decorate with @services.jsonrpc the functions to expose
+    supports xml, json, xmlrpc, jsonrpc, amfrpc, rss, csv
+    """
+    return service()
+
+"""
+
+
+# Turn the receiver on
+#receiver.writeCommandFromName('Power ON')
+
+# Select the PC input
+#receiver.writeCommandFromName('Computer/PC')
+#receiver.writeCommandFromName('TUNER')
+
+# Done watching a movie, shut it off.
+receiver.writeCommandFromName('Power OFF')
+"""
+
+@service.run
+def goodnight():
+    # Create a receiver object attached to the host 192.168.1.124
+    receiver = eiscp.eISCP('192.168.0.40')
+    receiver.writeCommandFromName('Power OFF')
+    return "success"
+
+@service.run
+def watchMovie():
+    # Create a receiver object attached to the host 192.168.1.124
+    receiver = eiscp.eISCP('192.168.0.40')
+    receiver.writeCommandFromName('Power ON')
+    receiver.writeCommandFromName('Computer/PC')
+    """
+    Turn on projector
+    Turn off lights
+    """
+    return "success"
