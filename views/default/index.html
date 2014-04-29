@@ -3,22 +3,31 @@
 
 {{if 'message' in globals():}}
 
-{{=A('Watch Movie', _class='btn', target='wmResults', callback=URL('home', 'automate', 'call', args=('run', 'watchMovie')))}}
-<span id="wmResults"></span>
-<br/>
+<fieldset>
+    <legend>Movie Room</legend>
+    {{=A('Watch Computer', _class='btn', target='wcResults', callback=URL('home', 'automate', 'call', args=('run', 'watchComputer')))}}
+    <span id="wcResults"></span>
+    <br/>
 
-{{=A('Goodnight', _class='btn', target="gnResults", callback=URL('home', 'automate', 'call', args=('run', 'goodnight')))}}
-<span id="gnResults"></span>
+    {{=A('Watch Directv', _class='btn', target='wdResults', callback=URL('home', 'automate', 'call', args=('run', 'watchDirectv')))}}
+    <span id="wdResults"></span>
+    <br/>
 
-<br/>
+    {{=A('Goodnight', _class='btn', target="gnResults", callback=URL('home', 'automate', 'call', args=('run', 'goodnight')))}}
+    <span id="gnResults"></span>
 
-{{=A('Wall Up', _class='btn', target="wallResults", callback=URL('home', 'automate', 'call', args=('run', 'wallUp')))}}
-<span id="wallResults"></span>
+</fieldset>
 
-<br/>
+<fieldset>
+    <legend>Wall</legend>
+    {{=A('Wall Up', _class='btn', target="wallResults", callback=URL('home', 'automate', 'call', args=('run', 'wallUp')))}}
+    <span id="wallResults"></span>
 
-{{=A('Wall Down', _class='btn', target="wallResults2", callback=URL('home', 'automate', 'call', args=('run', 'wallDown')))}}
-<span id="wallResults2"></span>
+    <br/>
+
+    {{=A('Wall Down', _class='btn', target="wallResults2", callback=URL('home', 'automate', 'call', args=('run', 'wallDown')))}}
+    <span id="wallResults2"></span>
+</fieldset>
 
 <br/><br/>
 Notes :

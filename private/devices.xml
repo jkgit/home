@@ -1,0 +1,2868 @@
+<settings version="2.0">
+  <insteon>
+    <active_devices>
+      <device insteonID="1E.4D.49" category="3" subcategory="26" revision="155" top="" ipk="00.00.00" wattage="-2" driver="PLMGateway02U" displayName="" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="12/01/2012" />
+        <location value="" room="Control" />
+        <customProperties />
+        <channels>
+          <channel id="0" />
+          <channel id="1" />
+          <channel id="2" />
+          <channel id="3" />
+          <channel id="4" />
+          <channel id="5" />
+          <channel id="6" />
+          <channel id="7" />
+          <channel id="8" />
+          <channel id="9" />
+          <channel id="10" />
+          <channel id="11" />
+          <channel id="12" />
+          <channel id="13" name="Event - Ambient" />
+          <channel id="14" />
+          <channel id="15" />
+          <channel id="16" />
+          <channel id="17" />
+          <channel id="18" />
+          <channel id="19" />
+          <channel id="20" />
+          <channel id="21" />
+          <channel id="22" />
+          <channel id="23" />
+          <channel id="24" />
+          <channel id="25" />
+          <channel id="26" />
+          <channel id="27" />
+          <channel id="28" />
+          <channel id="29" />
+          <channel id="30" />
+          <channel id="31" />
+          <channel id="32" />
+          <channel id="33" />
+          <channel id="34" />
+          <channel id="35" />
+          <channel id="36" />
+          <channel id="37" />
+          <channel id="38" />
+          <channel id="39" />
+          <channel id="40" />
+          <channel id="41" />
+          <channel id="42" />
+          <channel id="43" />
+          <channel id="44" />
+          <channel id="45" />
+          <channel id="46" />
+          <channel id="47" />
+          <channel id="48" />
+          <channel id="49" />
+          <channel id="50" />
+          <channel id="51" />
+          <channel id="52" />
+          <channel id="53" />
+          <channel id="54" />
+          <channel id="55" />
+          <channel id="56" />
+          <channel id="57" />
+          <channel id="58" />
+          <channel id="59" />
+          <channel id="60" />
+          <channel id="61" />
+          <channel id="62" />
+          <channel id="63" />
+          <channel id="64" />
+          <channel id="65" />
+          <channel id="66" />
+          <channel id="67" />
+          <channel id="68" />
+          <channel id="69" />
+          <channel id="70" />
+          <channel id="71" />
+          <channel id="72" />
+          <channel id="73" />
+          <channel id="74" />
+          <channel id="75" />
+          <channel id="76" />
+          <channel id="77" />
+          <channel id="78" />
+          <channel id="79" />
+          <channel id="80" />
+          <channel id="81" />
+          <channel id="82" />
+          <channel id="83" />
+          <channel id="84" />
+          <channel id="85" />
+          <channel id="86" />
+          <channel id="87" />
+          <channel id="88" />
+          <channel id="89" />
+          <channel id="90" />
+          <channel id="91" />
+          <channel id="92" />
+          <channel id="93" />
+          <channel id="94" />
+          <channel id="95" />
+          <channel id="96" />
+          <channel id="97" />
+          <channel id="98" />
+          <channel id="99" />
+          <channel id="100" />
+          <channel id="101" />
+          <channel id="102" />
+          <channel id="103" />
+          <channel id="104" />
+          <channel id="105" />
+          <channel id="106" />
+          <channel id="107" />
+          <channel id="108" />
+          <channel id="109" />
+          <channel id="110" />
+          <channel id="111" />
+          <channel id="112" />
+          <channel id="113" />
+          <channel id="114" />
+          <channel id="115" />
+          <channel id="116" />
+          <channel id="117" />
+          <channel id="118" />
+          <channel id="119" />
+          <channel id="120" />
+          <channel id="121" />
+          <channel id="122" />
+          <channel id="123" />
+          <channel id="124" />
+          <channel id="125" />
+          <channel id="126" />
+          <channel id="127" />
+          <channel id="128" />
+          <channel id="129" />
+          <channel id="130" />
+          <channel id="131" />
+          <channel id="132" />
+          <channel id="133" />
+          <channel id="134" />
+          <channel id="135" />
+          <channel id="136" />
+          <channel id="137" />
+          <channel id="138" />
+          <channel id="139" />
+          <channel id="140" />
+          <channel id="141" />
+          <channel id="142" />
+          <channel id="143" />
+          <channel id="144" />
+          <channel id="145" />
+          <channel id="146" />
+          <channel id="147" />
+          <channel id="148" />
+          <channel id="149" />
+          <channel id="150" />
+          <channel id="151" />
+          <channel id="152" />
+          <channel id="153" />
+          <channel id="154" />
+          <channel id="155" />
+          <channel id="156" />
+          <channel id="157" />
+          <channel id="158" />
+          <channel id="159" />
+          <channel id="160" />
+          <channel id="161" />
+          <channel id="162" />
+          <channel id="163" />
+          <channel id="164" />
+          <channel id="165" />
+          <channel id="166" />
+          <channel id="167" />
+          <channel id="168" />
+          <channel id="169" />
+          <channel id="170" />
+          <channel id="171" />
+          <channel id="172" />
+          <channel id="173" />
+          <channel id="174" />
+          <channel id="175" />
+          <channel id="176" />
+          <channel id="177" />
+          <channel id="178" />
+          <channel id="179" />
+          <channel id="180" />
+          <channel id="181" />
+          <channel id="182" />
+          <channel id="183" />
+          <channel id="184" />
+          <channel id="185" />
+          <channel id="186" />
+          <channel id="187" />
+          <channel id="188" />
+          <channel id="189" />
+          <channel id="190" />
+          <channel id="191" />
+          <channel id="192" />
+          <channel id="193" />
+          <channel id="194" />
+          <channel id="195" />
+          <channel id="196" />
+          <channel id="197" />
+          <channel id="198" />
+          <channel id="199" />
+          <channel id="200" />
+          <channel id="201" />
+          <channel id="202" />
+          <channel id="203" />
+          <channel id="204" />
+          <channel id="205" />
+          <channel id="206" />
+          <channel id="207" />
+          <channel id="208" />
+          <channel id="209" />
+          <channel id="210" />
+          <channel id="211" />
+          <channel id="212" />
+          <channel id="213" />
+          <channel id="214" />
+          <channel id="215" />
+          <channel id="216" />
+          <channel id="217" />
+          <channel id="218" />
+          <channel id="219" />
+          <channel id="220" />
+          <channel id="221" />
+          <channel id="222" />
+          <channel id="223" />
+          <channel id="224" />
+          <channel id="225" />
+          <channel id="226" />
+          <channel id="227" />
+          <channel id="228" />
+          <channel id="229" />
+          <channel id="230" />
+          <channel id="231" />
+          <channel id="232" />
+          <channel id="233" />
+          <channel id="234" />
+          <channel id="235" />
+          <channel id="236" />
+          <channel id="237" />
+          <channel id="238" />
+          <channel id="239" />
+          <channel id="240" />
+          <channel id="241" />
+          <channel id="242" />
+          <channel id="243" />
+          <channel id="244" />
+          <channel id="245" />
+          <channel id="246" />
+          <channel id="247" />
+          <channel id="248" />
+          <channel id="249" />
+          <channel id="250" />
+          <channel id="251" />
+          <channel id="252" />
+          <channel id="253" />
+          <channel id="254" />
+        </channels>
+        <database sequence="1" lastUpdate="3/9/2014 8:20 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1B.59.C6" group="0" recordControl="226" data1="1" data2="28" data3="64" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1A.66.8B" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="2">
+            <device address="1B.E2.FD" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1C.AD.B1" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="4">
+            <device address="19.2D.07" group="0" recordControl="226" data1="2" data2="30" data3="64" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1B.59.C6" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="6">
+            <device address="1B.59.C6" group="2" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="7">
+            <device address="1B.59.C6" group="3" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="8">
+            <device address="1B.59.C6" group="4" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="9">
+            <device address="1B.59.C6" group="5" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="10">
+            <device address="1B.59.C6" group="6" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="11">
+            <device address="1B.59.C6" group="7" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="12">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="13">
+            <device address="1B.59.C6" group="242" recordControl="226" data1="1" data2="0" data3="242" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="14">
+            <device address="1B.59.C6" group="243" recordControl="226" data1="1" data2="0" data3="243" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="15">
+            <device address="1B.59.C6" group="244" recordControl="226" data1="1" data2="0" data3="244" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="16">
+            <device address="1B.59.C6" group="245" recordControl="226" data1="1" data2="0" data3="245" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="17">
+            <device address="1B.59.C6" group="246" recordControl="226" data1="1" data2="0" data3="246" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="18">
+            <device address="1B.59.C6" group="247" recordControl="226" data1="1" data2="0" data3="247" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="19">
+            <device address="1B.59.C6" group="248" recordControl="226" data1="1" data2="0" data3="248" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="20">
+            <device address="1A.66.8B" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="21">
+            <device address="1B.E2.FD" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="22">
+            <device address="1C.AD.B1" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="23">
+            <device address="19.2D.07" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="24">
+            <device address="19.2D.07" group="3" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="25">
+            <device address="19.2D.07" group="4" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="26">
+            <device address="19.2D.07" group="5" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="27">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="28">
+            <device address="19.2D.07" group="242" recordControl="226" data1="1" data2="0" data3="242" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="29">
+            <device address="19.2D.07" group="243" recordControl="226" data1="1" data2="0" data3="243" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="30">
+            <device address="19.2D.07" group="244" recordControl="226" data1="1" data2="0" data3="244" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="31">
+            <device address="19.2D.07" group="245" recordControl="226" data1="1" data2="0" data3="245" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="32">
+            <device address="19.2D.07" group="246" recordControl="226" data1="1" data2="0" data3="246" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="33">
+            <device address="19.2D.07" group="247" recordControl="226" data1="1" data2="0" data3="247" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="34">
+            <device address="19.2D.07" group="248" recordControl="226" data1="1" data2="0" data3="248" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="35">
+            <device address="1F.4C.7B" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="05/05/2013 -- 10:36:57 PM" />
+          </record>
+          <record sequence="36">
+            <device address="1F.4C.7B" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="37">
+            <device address="1D.C2.FD" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="01/24/2014 -- 12:00:49 AM" />
+          </record>
+          <record sequence="38">
+            <device address="1D.C2.FD" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="01/23/2014 -- 11:53:24 PM" />
+          </record>
+          <record sequence="39">
+            <device address="20.FD.40" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="05/05/2013 -- 10:36:57 PM" />
+          </record>
+          <record sequence="40">
+            <device address="23.C7.59" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="05/05/2013 -- 10:36:58 PM" />
+          </record>
+          <record sequence="41">
+            <device address="23.C7.59" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="42">
+            <device address="21.3E.46" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="05/05/2013 -- 10:36:58 PM" />
+          </record>
+          <record sequence="43">
+            <device address="20.FD.40" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="44">
+            <device address="20.FD.40" group="3" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="45">
+            <device address="20.FD.40" group="4" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="46">
+            <device address="20.FD.40" group="5" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="47">
+            <device address="20.FD.40" group="6" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="48">
+            <device address="20.FD.40" group="242" recordControl="226" data1="1" data2="0" data3="242" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="49">
+            <device address="20.FD.40" group="243" recordControl="226" data1="1" data2="0" data3="243" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="50">
+            <device address="20.FD.40" group="244" recordControl="226" data1="1" data2="0" data3="244" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="51">
+            <device address="20.FD.40" group="245" recordControl="226" data1="1" data2="0" data3="245" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="52">
+            <device address="20.FD.40" group="246" recordControl="226" data1="1" data2="0" data3="246" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="53">
+            <device address="20.FD.40" group="247" recordControl="226" data1="1" data2="0" data3="247" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="54">
+            <device address="20.FD.40" group="248" recordControl="226" data1="1" data2="0" data3="248" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="55">
+            <device address="21.3E.46" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:36:54 PM" />
+          </record>
+          <record sequence="56">
+            <device address="14.EC.5A" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="07/15/2013 -- 12:04:52 AM" />
+          </record>
+          <record sequence="57">
+            <device address="14.EC.5A" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/05/2013 -- 10:42:19 PM" />
+          </record>
+          <record sequence="58">
+            <device address="17.90.64" group="0" recordControl="226" data1="3" data2="6" data3="146" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="59">
+            <device address="17.90.64" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="60">
+            <device address="17.90.64" group="2" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="61">
+            <device address="17.90.64" group="3" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="62">
+            <device address="17.90.64" group="4" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="63">
+            <device address="17.90.64" group="5" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="64">
+            <device address="17.90.64" group="6" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="65">
+            <device address="17.90.64" group="7" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="66">
+            <device address="17.90.64" group="8" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="67">
+            <device address="17.90.64" group="9" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="68">
+            <device address="17.90.64" group="10" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="69">
+            <device address="17.90.64" group="11" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="70">
+            <device address="17.90.64" group="12" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:19:15 PM" />
+          </record>
+          <record sequence="71">
+            <device address="24.30.7F" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="07/15/2013 -- 12:04:52 AM" />
+          </record>
+          <record sequence="72">
+            <device address="24.30.7F" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="07/14/2013 -- 11:58:11 PM" />
+          </record>
+          <record sequence="73">
+            <device address="24.30.7F" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="07/14/2013 -- 11:58:13 PM" />
+          </record>
+          <record sequence="74">
+            <device address="27.AB.F8" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="12/16/2013 -- 05:59:54 PM" />
+          </record>
+          <record sequence="75">
+            <device address="27.AB.F8" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="12/16/2013 -- 05:58:52 PM" />
+          </record>
+          <record sequence="76">
+            <device address="27.AB.F8" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="12/16/2013 -- 05:58:54 PM" />
+          </record>
+          <record sequence="77">
+            <device address="19.2D.07" group="13" recordControl="226" data1="3" data2="28" data3="13" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="78">
+            <device address="1B.59.C6" group="13" recordControl="226" data1="3" data2="28" data3="13" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="79">
+            <device address="23.C7.59" group="13" recordControl="226" data1="3" data2="28" data3="13" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="80">
+            <device address="21.3E.46" group="13" recordControl="226" data1="3" data2="28" data3="13" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="81">
+            <device address="27.AB.F8" group="13" recordControl="226" data1="3" data2="28" data3="13" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="82">
+            <device address="14.EC.5A" group="13" recordControl="226" data1="3" data2="28" data3="13" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="83">
+            <device address="29.2A.F1" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="01/23/2014 -- 11:37:11 PM" />
+          </record>
+          <record sequence="84">
+            <device address="29.2A.F1" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="01/23/2014 -- 11:36:51 PM" />
+          </record>
+          <record sequence="85">
+            <device address="1D.C2.FD" group="13" recordControl="226" data1="3" data2="28" data3="13" modified="01/24/2014 -- 12:00:02 AM" />
+          </record>
+          <record sequence="86">
+            <device address="1D.FC.1F" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="87">
+            <device address="1D.FC.1F" group="3" recordControl="162" data1="0" data2="0" data3="0" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="88">
+            <device address="1D.FC.1F" group="4" recordControl="162" data1="0" data2="0" data3="0" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="89">
+            <device address="1D.FC.1F" group="5" recordControl="162" data1="0" data2="0" data3="0" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="90">
+            <device address="1D.FC.1F" group="6" recordControl="162" data1="0" data2="0" data3="0" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="91">
+            <device address="1D.FC.1F" group="242" recordControl="226" data1="1" data2="0" data3="242" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="92">
+            <device address="1D.FC.1F" group="243" recordControl="226" data1="1" data2="0" data3="243" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="93">
+            <device address="1D.FC.1F" group="244" recordControl="226" data1="1" data2="0" data3="244" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="94">
+            <device address="1D.FC.1F" group="245" recordControl="226" data1="1" data2="0" data3="245" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="95">
+            <device address="1D.FC.1F" group="246" recordControl="226" data1="1" data2="0" data3="246" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="96">
+            <device address="1D.FC.1F" group="247" recordControl="226" data1="1" data2="0" data3="247" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="97">
+            <device address="1D.FC.1F" group="248" recordControl="226" data1="1" data2="0" data3="248" modified="03/08/2014 -- 10:31:25 PM" />
+          </record>
+          <record sequence="98">
+            <device address="1D.FC.1F" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="03/08/2014 -- 10:49:34 PM" />
+          </record>
+          <record sequence="99">
+            <device address="1D.FC.1F" group="13" recordControl="226" data1="3" data2="28" data3="13" modified="03/08/2014 -- 10:49:07 PM" />
+          </record>
+          <record sequence="100">
+            <device address="27.75.70" group="1" recordControl="162" data1="0" data2="0" data3="0" modified="03/09/2014 -- 07:37:28 PM" />
+          </record>
+          <record sequence="101">
+            <device address="27.75.70" group="2" recordControl="162" data1="0" data2="0" data3="0" modified="03/09/2014 -- 07:37:28 PM" />
+          </record>
+          <record sequence="102">
+            <device address="27.75.70" group="3" recordControl="162" data1="0" data2="0" data3="0" modified="03/09/2014 -- 07:37:28 PM" />
+          </record>
+          <record sequence="103">
+            <device address="25.1C.72" group="0" recordControl="226" data1="1" data2="0" data3="0" modified="03/09/2014 -- 08:20:07 PM" />
+          </record>
+        </database>
+      </device>
+      <device insteonID="1A.66.8B" category="1" subcategory="25" revision="64" top="" ipk="00.00.00" wattage="0" driver="SwitchLinc02D" displayName="Track Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="12/01/2012" />
+        <location value="Movie Room" room="Dork Nook" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="1/24/2014 4:36 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:48:56 PM" />
+          </record>
+          <record sequence="1">
+            <device address="29.2A.F1" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="01/23/2014 -- 11:49:25 PM" />
+          </record>
+          <record sequence="2">
+            <device address="29.2A.F1" group="1" recordControl="162" data1="255" data2="28" data3="1" modified="01/24/2014 -- 04:36:36 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="31" data3="1" modified="05/30/2013 -- 12:48:53 PM" />
+          </record>
+          <record sequence="4">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="31" data3="1" modified="05/30/2013 -- 12:48:53 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1B.59.C6" group="5" recordControl="162" data1="255" data2="28" data3="1" modified="05/30/2013 -- 12:48:53 PM" />
+          </record>
+          <record sequence="6">
+            <device address="1B.59.C6" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="01/24/2014 -- 10:39:08 AM" />
+          </record>
+          <record sequence="7">
+            <device address="19.2D.07" group="4" recordControl="162" data1="0" data2="31" data3="1" modified="05/30/2013 -- 12:48:53 PM" />
+          </record>
+          <record sequence="8">
+            <device address="1B.59.C6" group="4" recordControl="34" data1="0" data2="31" data3="1" modified="07/15/2013 -- 12:03:05 AM" />
+          </record>
+          <record sequence="9">
+            <device address="17.90.64" group="4" recordControl="162" data1="0" data2="31" data3="0" modified="05/30/2013 -- 12:48:53 PM" />
+          </record>
+          <record sequence="10">
+            <device address="17.90.64" group="3" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:48:53 PM" />
+          </record>
+          <record sequence="11">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/30/2013 -- 12:48:53 PM" />
+          </record>
+          <record sequence="12">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x02" text="" lastUpdate="12/26/2012 7:03 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x00" text="" lastUpdate="12/26/2012 7:03 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="12/26/2012 7:03 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="12/26/2012 7:03 PM" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1F" text="" lastUpdate="12/26/2012 7:03 PM" />
+          </p>
+          <p name="onLevel">
+            <device value="0xFF" text="" lastUpdate="12/26/2012 7:03 PM" />
+          </p>
+          <p name="opflags2">
+            <device value="0x08" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="1B.E2.FD" category="2" subcategory="28" revision="65" top="" ipk="00.00.00" wattage="-1" driver="SwitchLinc02RCS" displayName="Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="12/01/2012" />
+        <location value="Movie Room" room="Unfinished Basement" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="4/12/2014 12:20 AM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:49:31 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1B.59.C6" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="01/24/2014 -- 10:38:33 AM" />
+          </record>
+          <record sequence="2">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="0" data3="1" modified="05/30/2013 -- 12:49:29 PM" />
+          </record>
+          <record sequence="3">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="0" data3="1" modified="05/30/2013 -- 12:49:29 PM" />
+          </record>
+          <record sequence="4">
+            <device address="1B.59.C6" group="5" recordControl="162" data1="255" data2="0" data3="1" modified="05/30/2013 -- 12:49:29 PM" />
+          </record>
+          <record sequence="5">
+            <device address="29.2A.F1" group="1" recordControl="162" data1="255" data2="0" data3="1" modified="01/24/2014 -- 04:36:36 PM" />
+          </record>
+          <record sequence="6">
+            <device address="29.2A.F1" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="04/12/2014 -- 12:20:15 AM" />
+          </record>
+          <record sequence="7">
+            <device address="19.2D.07" group="4" recordControl="162" data1="0" data2="0" data3="1" modified="05/30/2013 -- 12:49:29 PM" />
+          </record>
+          <record sequence="8">
+            <device address="17.90.64" group="3" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:49:29 PM" />
+          </record>
+          <record sequence="9">
+            <device address="17.90.64" group="4" recordControl="162" data1="0" data2="31" data3="1" modified="05/30/2013 -- 12:49:29 PM" />
+          </record>
+          <record sequence="10">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/30/2013 -- 12:49:29 PM" />
+          </record>
+          <record sequence="11">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="12">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="13">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x02" text="" lastUpdate="12/26/2012 7:03 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x7F" text="" lastUpdate="4/12/2014 12:21 AM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1C" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="onLevel">
+            <device value="0xFF" text="" lastUpdate="12/26/2012 7:03 PM" />
+          </p>
+          <p name="opflags2">
+            <device value="0x08" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="1C.AD.B1" category="1" subcategory="32" revision="64" top="6.4" ipk="00.00.00" wattage="0" driver="SwitchLinc02D" displayName="Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="Overhead lights" added="12/01/2012" />
+        <location value="Movie Room" room="Movie" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="1/23/2014 11:52 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="05/20/2013 -- 02:25:05 AM" />
+          </record>
+          <record sequence="1">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="31" data3="1" modified="05/20/2013 -- 02:25:02 AM" />
+          </record>
+          <record sequence="2">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="31" data3="1" modified="05/20/2013 -- 02:25:02 AM" />
+          </record>
+          <record sequence="3">
+            <device address="1B.59.C6" group="6" recordControl="162" data1="127" data2="27" data3="1" modified="05/20/2013 -- 02:25:02 AM" />
+          </record>
+          <record sequence="4">
+            <device address="17.90.64" group="4" recordControl="162" data1="0" data2="24" data3="1" modified="05/20/2013 -- 02:25:02 AM" />
+          </record>
+          <record sequence="5">
+            <device address="19.2D.07" group="4" recordControl="162" data1="0" data2="31" data3="1" modified="05/20/2013 -- 02:25:02 AM" />
+          </record>
+          <record sequence="6">
+            <device address="1B.59.C6" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="07/22/2013 -- 01:30:17 AM" />
+          </record>
+          <record sequence="7">
+            <device address="17.90.64" group="3" recordControl="162" data1="255" data2="24" data3="1" modified="05/20/2013 -- 02:25:02 AM" />
+          </record>
+          <record sequence="8">
+            <device address="20.FD.40" group="6" recordControl="34" data1="0" data2="31" data3="1" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="9">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="10">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="11">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="12">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/30/2013 -- 12:50:13 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x02" text="" lastUpdate="5/18/2013 12:29 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x40" text="" lastUpdate="4/12/2014 12:21 AM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="5/18/2013 12:29 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="5/18/2013 12:29 PM" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1B" text="" lastUpdate="5/18/2013 12:29 PM" />
+          </p>
+          <p name="onLevel">
+            <device value="0xFF" text="" lastUpdate="5/18/2013 12:29 PM" />
+          </p>
+          <p name="opflags2">
+            <device value="0x08" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="1F.4C.7B" category="2" subcategory="26" revision="65" top="" ipk="00.00.00" wattage="0" driver="ToggleLinc02RCS" displayName="Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="12/02/2012" />
+        <location value="Hallway" room="Kitchen" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="3/8/2014 10:51 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:50:23 PM" />
+          </record>
+          <record sequence="1">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="0" data3="1" modified="05/30/2013 -- 12:50:21 PM" />
+          </record>
+          <record sequence="2">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="0" data3="1" modified="05/30/2013 -- 12:50:21 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1B.59.C6" group="3" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:50:21 PM" />
+          </record>
+          <record sequence="4">
+            <device address="17.90.64" group="2" recordControl="162" data1="0" data2="31" data3="1" modified="05/30/2013 -- 12:50:21 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1B.59.C6" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="03/08/2014 -- 10:51:26 PM" />
+          </record>
+          <record sequence="6">
+            <device address="19.2D.07" group="4" recordControl="162" data1="0" data2="0" data3="1" modified="05/30/2013 -- 12:50:21 PM" />
+          </record>
+          <record sequence="7">
+            <device address="17.90.64" group="1" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:50:21 PM" />
+          </record>
+          <record sequence="8">
+            <device address="19.2D.07" group="3" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:50:21 PM" />
+          </record>
+          <record sequence="9">
+            <device address="20.FD.40" group="6" recordControl="34" data1="0" data2="0" data3="1" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="10">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/30/2013 -- 12:50:21 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x02" text="" lastUpdate="5/5/2013 11:28 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x7F" text="" lastUpdate="5/5/2013 11:28 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="5/5/2013 11:28 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="5/5/2013 11:28 PM" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1C" text="" lastUpdate="5/5/2013 11:28 PM" />
+          </p>
+          <p name="onLevel">
+            <device value="0xFF" text="" lastUpdate="5/5/2013 11:28 PM" />
+          </p>
+          <p name="opflags2">
+            <device value="0x08" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="1D.C2.FD" category="1" subcategory="32" revision="65" top="" ipk="00.00.00" wattage="-1" driver="SwitchLinc02DCS" displayName="High Accents" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="12/03/2012" />
+        <location value="Left of Fireplace" room="Breakfast Nook" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="3/9/2014 8:05 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="05/20/2013 -- 02:25:50 AM" />
+          </record>
+          <record sequence="1">
+            <device address="1A.66.8B" group="1" recordControl="162" data1="255" data2="31" data3="1" modified="05/20/2013 -- 02:25:48 AM" />
+          </record>
+          <record sequence="2">
+            <device address="19.2D.07" group="1" recordControl="162" data1="255" data2="31" data3="1" modified="03/09/2014 -- 08:04:56 PM" />
+          </record>
+          <record sequence="3">
+            <device address="19.2D.07" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="03/09/2014 -- 08:05:27 PM" />
+          </record>
+          <record sequence="4">
+            <device address="1A.66.8B" group="1" recordControl="106" data1="3" data2="28" data3="1" modified="01/24/2014 -- 12:16:56 AM" />
+          </record>
+          <record sequence="5">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="31" data3="1" modified="05/20/2013 -- 02:25:48 AM" />
+          </record>
+          <record sequence="6">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="31" data3="1" modified="05/20/2013 -- 02:25:48 AM" />
+          </record>
+          <record sequence="7">
+            <device address="17.90.64" group="4" recordControl="162" data1="0" data2="31" data3="1" modified="05/20/2013 -- 02:25:48 AM" />
+          </record>
+          <record sequence="8">
+            <device address="1B.59.C6" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="07/22/2013 -- 01:29:44 AM" />
+          </record>
+          <record sequence="9">
+            <device address="1B.59.C6" group="2" recordControl="162" data1="102" data2="26" data3="1" modified="01/24/2014 -- 12:11:42 AM" />
+          </record>
+          <record sequence="10">
+            <device address="19.2D.07" group="4" recordControl="162" data1="102" data2="26" data3="1" modified="01/24/2014 -- 12:11:42 AM" />
+          </record>
+          <record sequence="11">
+            <device address="17.90.64" group="3" recordControl="162" data1="255" data2="31" data3="1" modified="05/20/2013 -- 02:25:48 AM" />
+          </record>
+          <record sequence="12">
+            <device address="1E.4D.49" group="13" recordControl="162" data1="102" data2="26" data3="1" modified="01/24/2014 -- 12:11:42 AM" />
+          </record>
+          <record sequence="13">
+            <device address="1E.4D.49" group="1" recordControl="234" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="14">
+            <device address="1E.4D.49" group="1" recordControl="234" data1="3" data2="31" data3="1" modified="05/30/2013 -- 12:50:50 PM" />
+          </record>
+          <record sequence="15">
+            <device address="29.2A.F1" group="1" recordControl="98" data1="3" data2="28" data3="1" modified="01/24/2014 -- 12:16:56 AM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x02" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x3F" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1C" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="onLevel">
+            <device value="0xFF" text="" lastUpdate="12/26/2012 7:04 PM" />
+          </p>
+          <p name="opflags2">
+            <device value="0x08" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="1B.59.C6" category="1" subcategory="28" revision="64" top="" ipk="00.00.00" wattage="-1" driver="KeypadLinc03D" displayName="Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="12/26/2012" />
+        <location value="Kitchen" room="Dining" />
+        <customProperties />
+        <channels>
+          <channel id="1" name="Sofa Dimmers">
+            <onMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="12/29/2012 11:49 AM" />
+            </toggleMode>
+            <onLevel>
+              <device value="255" lastUpdate="1/23/2014 11:55 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="28" lastUpdate="1/23/2014 11:55 PM" />
+            </rampRate>
+          </channel>
+          <channel id="2" name="Ambient">
+            <onMask>
+              <device value="129" lastUpdate="1/23/2014 11:55 PM" />
+            </onMask>
+            <offMask>
+              <device value="128" lastUpdate="1/23/2014 11:55 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="12/29/2012 11:49 AM" />
+            </toggleMode>
+            <onLevel>
+              <device value="76" lastUpdate="1/24/2014 12:08 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="26" lastUpdate="1/23/2014 11:55 PM" />
+            </rampRate>
+          </channel>
+          <channel id="3" name="Kitchen">
+            <onMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="12/29/2012 11:49 AM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="31" lastUpdate="1/23/2014 11:55 PM" />
+            </rampRate>
+          </channel>
+          <channel id="4" name="Fan">
+            <onMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="12/29/2012 11:49 AM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="31" lastUpdate="1/23/2014 11:55 PM" />
+            </rampRate>
+          </channel>
+          <channel id="5" name="Utility Lights">
+            <onMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="12/29/2012 11:49 AM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </rampRate>
+          </channel>
+          <channel id="6" name="Movie Room">
+            <onMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="12/29/2012 11:49 AM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </rampRate>
+          </channel>
+          <channel id="7" name="Floods">
+            <onMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="12/29/2012 11:49 AM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </rampRate>
+          </channel>
+          <channel id="8" name="All Off">
+            <onMask>
+              <device value="55" lastUpdate="1/23/2014 11:55 PM" />
+            </onMask>
+            <offMask>
+              <device value="55" lastUpdate="1/23/2014 11:55 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Off" lastUpdate="12/29/2012 11:49 AM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="1/23/2014 11:55 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="31" lastUpdate="1/23/2014 11:55 PM" />
+            </rampRate>
+          </channel>
+        </channels>
+        <database sequence="1" lastUpdate="3/8/2014 10:51 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="0" data2="28" data3="4" modified="05/07/2013 -- 12:00:00 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1E.4D.49" group="242" recordControl="162" data1="255" data2="31" data3="2" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="2">
+            <device address="1E.4D.49" group="243" recordControl="162" data1="255" data2="31" data3="3" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="3">
+            <device address="1E.4D.49" group="244" recordControl="162" data1="255" data2="31" data3="4" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="4">
+            <device address="1E.4D.49" group="245" recordControl="162" data1="255" data2="31" data3="5" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="5">
+            <device address="1E.4D.49" group="246" recordControl="162" data1="255" data2="31" data3="6" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="6">
+            <device address="1E.4D.49" group="247" recordControl="162" data1="255" data2="31" data3="7" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="7">
+            <device address="1E.4D.49" group="248" recordControl="162" data1="255" data2="31" data3="8" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="8">
+            <device address="1E.4D.49" group="13" recordControl="162" data1="76" data2="26" data3="1" modified="01/24/2014 -- 12:08:46 AM" />
+          </record>
+          <record sequence="9">
+            <device address="1E.4D.49" group="13" recordControl="162" data1="0" data2="28" data3="8" modified="01/23/2014 -- 11:54:20 PM" />
+          </record>
+          <record sequence="10">
+            <device address="29.2A.F1" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="01/23/2014 -- 11:54:23 PM" />
+          </record>
+          <record sequence="11">
+            <device address="1C.AD.B1" group="6" recordControl="226" data1="3" data2="28" data3="6" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="12">
+            <device address="21.3E.46" group="2" recordControl="226" data1="3" data2="28" data3="2" modified="07/15/2013 -- 12:33:11 AM" />
+          </record>
+          <record sequence="13">
+            <device address="1D.C2.FD" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="01/23/2014 -- 11:54:25 PM" />
+          </record>
+          <record sequence="14">
+            <device address="1F.4C.7B" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="15">
+            <device address="1C.AD.B1" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="16">
+            <device address="1B.E2.FD" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="17">
+            <device address="1A.66.8B" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="18">
+            <device address="20.FD.40" group="7" recordControl="226" data1="3" data2="31" data3="7" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="19">
+            <device address="23.C7.59" group="2" recordControl="226" data1="3" data2="28" data3="2" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="20">
+            <device address="19.2D.07" group="2" recordControl="226" data1="3" data2="28" data3="2" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="21">
+            <device address="19.2D.07" group="4" recordControl="162" data1="0" data2="28" data3="8" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="22">
+            <device address="19.2D.07" group="4" recordControl="162" data1="76" data2="26" data3="1" modified="01/24/2014 -- 12:08:46 AM" />
+          </record>
+          <record sequence="23">
+            <device address="1F.4C.7B" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="24">
+            <device address="23.C7.59" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="25">
+            <device address="19.2D.07" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="26">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="28" data3="3" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="27">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="28" data3="2" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="28">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="31" data3="1" modified="05/07/2013 -- 11:59:52 AM" />
+          </record>
+          <record sequence="29">
+            <device address="1D.C2.FD" group="2" recordControl="226" data1="3" data2="28" data3="2" modified="01/24/2014 -- 12:00:02 AM" />
+          </record>
+          <record sequence="30">
+            <device address="24.30.7F" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="07/15/2013 -- 12:02:54 AM" />
+          </record>
+          <record sequence="31">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="28" data3="5" modified="07/22/2013 -- 01:27:20 AM" />
+          </record>
+          <record sequence="32">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="28" data3="6" modified="07/22/2013 -- 01:27:20 AM" />
+          </record>
+          <record sequence="33">
+            <device address="29.2A.F1" group="1" recordControl="162" data1="255" data2="31" data3="5" modified="01/24/2014 -- 10:37:00 AM" />
+          </record>
+          <record sequence="34">
+            <device address="29.2A.F1" group="5" recordControl="226" data1="3" data2="28" data3="5" modified="01/24/2014 -- 12:03:31 AM" />
+          </record>
+          <record sequence="35">
+            <device address="21.3E.46" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="01/24/2014 -- 12:11:01 AM" />
+          </record>
+          <record sequence="36">
+            <device address="1B.E2.FD" group="1" recordControl="162" data1="255" data2="31" data3="5" modified="01/24/2014 -- 10:38:33 AM" />
+          </record>
+          <record sequence="37">
+            <device address="1A.66.8B" group="1" recordControl="162" data1="255" data2="31" data3="5" modified="01/24/2014 -- 10:39:08 AM" />
+          </record>
+          <record sequence="38">
+            <device address="27.AB.F8" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="12/16/2013 -- 06:03:54 PM" />
+          </record>
+          <record sequence="39">
+            <device address="1C.AD.B1" group="1" recordControl="162" data1="255" data2="31" data3="6" modified="12/16/2013 -- 06:04:11 PM" />
+          </record>
+          <record sequence="40">
+            <device address="1D.FC.1F" group="2" recordControl="226" data1="3" data2="28" data3="2" modified="03/08/2014 -- 10:49:07 PM" />
+          </record>
+          <record sequence="41">
+            <device address="1D.FC.1F" group="8" recordControl="226" data1="3" data2="28" data3="8" modified="03/08/2014 -- 10:49:45 PM" />
+          </record>
+          <record sequence="42">
+            <device address="1B.E2.FD" group="5" recordControl="226" data1="3" data2="28" data3="5" modified="01/23/2014 -- 11:54:45 PM" />
+          </record>
+          <record sequence="43">
+            <device address="1A.66.8B" group="5" recordControl="226" data1="3" data2="28" data3="5" modified="01/23/2014 -- 11:54:48 PM" />
+          </record>
+          <record sequence="44">
+            <device address="14.EC.5A" group="2" recordControl="226" data1="3" data2="28" data3="2" modified="01/23/2014 -- 11:54:51 PM" />
+          </record>
+          <record sequence="45">
+            <device address="27.AB.F8" group="2" recordControl="226" data1="3" data2="28" data3="2" modified="01/23/2014 -- 11:54:53 PM" />
+          </record>
+          <record sequence="46">
+            <device address="1E.4D.49" group="8" recordControl="226" data1="3" data2="31" data3="8" modified="12/16/2013 -- 06:04:49 PM" />
+          </record>
+          <record sequence="47">
+            <device address="1E.4D.49" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="12/16/2013 -- 06:05:06 PM" />
+          </record>
+          <record sequence="48">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="12/16/2013 -- 06:05:11 PM" />
+          </record>
+          <record sequence="49">
+            <device address="1E.4D.49" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="12/16/2013 -- 06:02:33 PM" />
+          </record>
+          <record sequence="50">
+            <device address="1E.4D.49" group="2" recordControl="226" data1="3" data2="31" data3="2" modified="01/23/2014 -- 11:54:57 PM" />
+          </record>
+          <record sequence="51">
+            <device address="1E.4D.49" group="7" recordControl="226" data1="3" data2="31" data3="7" modified="01/23/2014 -- 11:54:59 PM" />
+          </record>
+          <record sequence="52">
+            <device address="1E.4D.49" group="6" recordControl="226" data1="3" data2="31" data3="6" modified="01/23/2014 -- 11:55:02 PM" />
+          </record>
+          <record sequence="53">
+            <device address="1E.4D.49" group="5" recordControl="226" data1="3" data2="31" data3="5" modified="01/23/2014 -- 11:55:05 PM" />
+          </record>
+          <record sequence="54">
+            <device address="1F.4C.7B" group="1" recordControl="162" data1="255" data2="31" data3="3" modified="03/08/2014 -- 10:51:26 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x08" text="" lastUpdate="1/23/2014 11:55 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x1A" text="" lastUpdate="1/23/2014 11:55 PM" />
+          </p>
+          <p name="nonToggleMask">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+          <p name="nonToggleOnOffMask">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="1/23/2014 11:55 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="1/23/2014 11:55 PM" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="19.2D.07" category="2" subcategory="30" revision="64" top="" ipk="00.00.00" wattage="-1" driver="KeypadLinc03R" displayName="High Accent" active="False" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="03/09/2014" />
+        <location value="Loft Staircase" room="Loft" />
+        <customProperties />
+        <channels>
+          <channel id="1">
+            <onMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:54 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="255" lastUpdate="3/9/2014 8:00 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </rampRate>
+          </channel>
+          <channel id="2">
+            <onMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:54 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </rampRate>
+          </channel>
+          <channel id="3" name="Kitchen">
+            <onMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:54 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </rampRate>
+          </channel>
+          <channel id="4" name="Ambient">
+            <onMask>
+              <device value="33" lastUpdate="3/9/2014 8:00 PM" />
+            </onMask>
+            <offMask>
+              <device value="32" lastUpdate="3/9/2014 8:00 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:54 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="255" lastUpdate="3/9/2014 8:00 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </rampRate>
+          </channel>
+          <channel id="5" name="Floods">
+            <onMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:54 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </rampRate>
+          </channel>
+          <channel id="6" name="All Off">
+            <onMask>
+              <device value="137" lastUpdate="3/9/2014 8:00 PM" />
+            </onMask>
+            <offMask>
+              <device value="137" lastUpdate="3/9/2014 8:00 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Off" lastUpdate="3/24/2013 4:54 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </rampRate>
+          </channel>
+          <channel id="7">
+            <onMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:54 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </rampRate>
+          </channel>
+          <channel id="8">
+            <onMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:54 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/9/2014 8:00 PM" />
+            </rampRate>
+          </channel>
+        </channels>
+        <database sequence="1" lastUpdate="1/23/2014 11:43 PM" lastStatus="PendingSynch">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:45:30 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1E.4D.49" group="242" recordControl="162" data1="255" data2="31" data3="2" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="2">
+            <device address="1E.4D.49" group="243" recordControl="162" data1="255" data2="31" data3="3" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1E.4D.49" group="244" recordControl="162" data1="255" data2="31" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="4">
+            <device address="1E.4D.49" group="245" recordControl="162" data1="255" data2="31" data3="5" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1E.4D.49" group="246" recordControl="162" data1="255" data2="31" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="6">
+            <device address="1E.4D.49" group="247" recordControl="162" data1="255" data2="31" data3="7" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="7">
+            <device address="1E.4D.49" group="248" recordControl="162" data1="255" data2="31" data3="8" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="8">
+            <pending address="1D.C2.FD" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="" />
+          </record>
+          <record sequence="9">
+            <device address="1F.4C.7B" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="10">
+            <device address="1C.AD.B1" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="11">
+            <device address="1A.66.8B" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="12">
+            <device address="1B.E2.FD" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="13">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="0" data3="1" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="14">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="0" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="15">
+            <device address="20.FD.40" group="5" recordControl="226" data1="3" data2="31" data3="5" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="16">
+            <device address="1B.59.C6" group="2" recordControl="162" data1="0" data2="0" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="17">
+            <device address="1B.59.C6" group="2" recordControl="162" data1="255" data2="0" data3="1" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="18">
+            <device address="23.C7.59" group="4" recordControl="226" data1="3" data2="0" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="19">
+            <device address="1B.59.C6" group="4" recordControl="226" data1="3" data2="0" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="20">
+            <device address="23.C7.59" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="21">
+            <device address="1B.59.C6" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="22">
+            <pending address="29.2A.F1" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="" />
+          </record>
+          <record sequence="23">
+            <device address="1C.AD.B1" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="24">
+            <device address="1A.66.8B" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="25">
+            <device address="1B.E2.FD" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="26">
+            <device address="1F.4C.7B" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="27">
+            <device address="20.FD.40" group="6" recordControl="162" data1="0" data2="0" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+            <pending address="1D.C2.FD" group="4" recordControl="226" data1="3" data2="0" data3="4" modified="" />
+          </record>
+          <record sequence="28">
+            <device address="20.FD.40" group="6" recordControl="162" data1="0" data2="0" data3="1" modified="05/30/2013 -- 12:45:27 PM" />
+            <pending address="21.3E.46" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="" />
+          </record>
+          <record sequence="29">
+            <device address="20.FD.40" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="05/30/2013 -- 12:45:27 PM" />
+            <pending address="1D.FC.1F" group="4" recordControl="226" data1="3" data2="0" data3="4" modified="03/08/2014 -- 10:49:07 PM" />
+          </record>
+          <record sequence="30">
+            <device address="21.3E.46" group="4" recordControl="226" data1="3" data2="0" data3="4" modified="07/15/2013 -- 12:33:28 AM" />
+          </record>
+          <record sequence="31">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="32">
+            <device address="1E.4D.49" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="33">
+            <device address="1E.4D.49" group="5" recordControl="226" data1="3" data2="31" data3="5" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="34">
+            <device address="1E.4D.49" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/30/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="35">
+            <device address="1E.4D.49" group="6" recordControl="226" data1="3" data2="31" data3="6" modified="" />
+          </record>
+          <record sequence="36">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="37">
+            <device address="1E.4D.49" group="6" recordControl="226" data1="3" data2="31" data3="6" modified="07/15/2013 -- 12:33:26 AM" />
+          </record>
+          <record sequence="38">
+            <device address="27.AB.F8" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="12/16/2013 -- 06:01:00 PM" />
+          </record>
+          <record sequence="39">
+            <device address="27.AB.F8" group="4" recordControl="226" data1="3" data2="0" data3="4" modified="12/19/2013 -- 06:02:33 PM" />
+          </record>
+          <record sequence="40">
+            <device address="14.EC.5A" group="4" recordControl="226" data1="3" data2="0" data3="4" modified="12/19/2013 -- 06:02:33 PM" />
+          </record>
+          <record sequence="41">
+            <device address="1E.4D.49" group="13" recordControl="162" data1="255" data2="0" data3="1" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="42">
+            <device address="1E.4D.49" group="13" recordControl="162" data1="0" data2="0" data3="6" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="43">
+            <pending address="1D.FC.1F" group="6" recordControl="226" data1="3" data2="0" data3="6" modified="" />
+          </record>
+          <record sequence="44">
+            <pending address="1D.C2.FD" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="45">
+            <pending address="1D.C2.FD" group="1" recordControl="162" data1="255" data2="31" data3="1" modified="03/09/2014 -- 08:05:27 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x00" text="" lastUpdate="3/9/2014 8:00 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x14" text="" lastUpdate="3/9/2014 8:00 PM" />
+          </p>
+          <p name="nonToggleMask">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+          <p name="nonToggleOnOffMask">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="3/9/2014 8:00 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="3/9/2014 8:00 PM" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="20.FD.40" category="2" subcategory="44" revision="65" top="" ipk="00.00.00" wattage="-1" driver="KeypadLinc03RCS" displayName="Spots" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="Controls spots" added="03/24/2013" />
+        <location value="Garage Entrance" room="Hallway" />
+        <customProperties />
+        <channels>
+          <channel id="1">
+            <onMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:48 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="255" lastUpdate="5/6/2013 12:12 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </rampRate>
+          </channel>
+          <channel id="2">
+            <onMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:48 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </rampRate>
+          </channel>
+          <channel id="3">
+            <onMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:48 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </rampRate>
+          </channel>
+          <channel id="4">
+            <onMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:48 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </rampRate>
+          </channel>
+          <channel id="5" name="Pool">
+            <onMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:48 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </rampRate>
+          </channel>
+          <channel id="6" name="All Off">
+            <onMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:48 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </rampRate>
+          </channel>
+          <channel id="7">
+            <onMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:48 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </rampRate>
+          </channel>
+          <channel id="8">
+            <onMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/24/2013 4:48 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="5/6/2013 12:12 AM" />
+            </rampRate>
+          </channel>
+        </channels>
+        <database sequence="1" lastUpdate="1/23/2014 11:52 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="170" data1="255" data2="28" data3="1" modified="05/30/2013 -- 12:47:05 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1E.4D.49" group="242" recordControl="162" data1="255" data2="31" data3="2" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="2">
+            <device address="1E.4D.49" group="243" recordControl="162" data1="255" data2="31" data3="3" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1E.4D.49" group="244" recordControl="162" data1="255" data2="31" data3="4" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="4">
+            <device address="1E.4D.49" group="245" recordControl="162" data1="255" data2="31" data3="5" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1E.4D.49" group="246" recordControl="162" data1="255" data2="31" data3="6" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="6">
+            <device address="1E.4D.49" group="247" recordControl="162" data1="255" data2="31" data3="7" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="7">
+            <device address="1E.4D.49" group="248" recordControl="162" data1="255" data2="31" data3="8" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="8">
+            <device address="19.2D.07" group="5" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="9">
+            <device address="1B.59.C6" group="7" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="10">
+            <device address="17.90.64" group="2" recordControl="162" data1="0" data2="31" data3="1" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="11">
+            <device address="17.90.64" group="1" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="12">
+            <device address="14.EC.5A" group="5" recordControl="226" data1="3" data2="31" data3="5" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="13">
+            <device address="23.C7.59" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="14">
+            <device address="19.2D.07" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="15">
+            <device address="1B.59.C6" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="16">
+            <device address="1D.C2.FD" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:43:43 PM" />
+          </record>
+          <record sequence="17">
+            <device address="19.2D.07" group="6" recordControl="34" data1="0" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="18">
+            <device address="1B.59.C6" group="8" recordControl="34" data1="0" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="19">
+            <device address="1A.66.8B" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="20">
+            <device address="1B.E2.FD" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="21">
+            <device address="1C.AD.B1" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="22">
+            <device address="1F.4C.7B" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="23">
+            <device address="27.AB.F8" group="6" recordControl="98" data1="3" data2="0" data3="6" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="24">
+            <device address="1E.4D.49" group="6" recordControl="226" data1="3" data2="31" data3="6" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="25">
+            <device address="1E.4D.49" group="5" recordControl="226" data1="3" data2="31" data3="5" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="26">
+            <device address="1E.4D.49" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="27">
+            <device address="1E.4D.49" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/30/2013 -- 12:47:03 PM" />
+          </record>
+          <record sequence="28">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="12/16/2013 -- 06:07:09 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x00" text="" lastUpdate="5/6/2013 12:12 AM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x3F" text="" lastUpdate="5/6/2013 12:12 AM" />
+          </p>
+          <p name="nonToggleMask">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+          <p name="nonToggleOnOffMask">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="5/6/2013 12:12 AM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="5/6/2013 12:12 AM" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="23.C7.59" category="1" subcategory="32" revision="65" top="" ipk="00.00.00" wattage="-1" driver="SwitchLinc02DCS" displayName="Low Accents" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="05/03/2013" />
+        <location value="Right of fireplace" room="Breakfast Nook" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="1/24/2014 12:11 AM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="05/07/2013 -- 12:06:51 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1E.4D.49" group="13" recordControl="162" data1="102" data2="26" data3="1" modified="01/24/2014 -- 12:11:42 AM" />
+          </record>
+          <record sequence="2">
+            <device address="19.2D.07" group="4" recordControl="162" data1="102" data2="26" data3="1" modified="01/24/2014 -- 12:11:42 AM" />
+          </record>
+          <record sequence="3">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="31" data3="1" modified="05/07/2013 -- 12:06:49 PM" />
+          </record>
+          <record sequence="4">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="31" data3="1" modified="05/07/2013 -- 12:06:49 PM" />
+          </record>
+          <record sequence="5">
+            <device address="20.FD.40" group="6" recordControl="34" data1="0" data2="31" data3="1" modified="01/23/2014 -- 11:56:03 PM" />
+          </record>
+          <record sequence="6">
+            <device address="1B.59.C6" group="2" recordControl="162" data1="102" data2="26" data3="1" modified="01/24/2014 -- 12:11:42 AM" />
+          </record>
+          <record sequence="7">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="01/23/2014 -- 11:56:09 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x02" text="" lastUpdate="6/10/2013 6:40 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x00" text="" lastUpdate="5/3/2013 11:24 AM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="5/3/2013 11:24 AM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="5/3/2013 11:24 AM" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1F" text="" lastUpdate="5/3/2013 11:24 AM" />
+          </p>
+          <p name="onLevel">
+            <device value="0xFF" text="" lastUpdate="5/3/2013 11:24 AM" />
+          </p>
+          <p name="opflags2">
+            <device value="0x08" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="21.3E.46" category="2" subcategory="9" revision="66" top="" ipk="00.00.00" wattage="0" driver="ApplianceLinc02CS" displayName="Accents" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="01/09/2014" />
+        <location value="Above cabinets" room="Kitchen" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="1/24/2014 12:11 AM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="01/16/2014 -- 02:30:26 AM" />
+          </record>
+          <record sequence="1">
+            <device address="19.2D.07" group="4" recordControl="162" data1="255" data2="0" data3="1" modified="07/15/2013 -- 12:33:11 AM" />
+          </record>
+          <record sequence="2">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="0" data3="1" modified="07/15/2013 -- 12:02:13 AM" />
+          </record>
+          <record sequence="3">
+            <device address="1B.59.C6" group="2" recordControl="162" data1="255" data2="0" data3="1" modified="01/09/2014 -- 03:20:29 PM" />
+          </record>
+          <record sequence="4">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="" />
+          </record>
+          <record sequence="5">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="01/09/2014 -- 03:20:32 PM" />
+          </record>
+          <record sequence="6">
+            <device address="1E.4D.49" group="13" recordControl="162" data1="255" data2="0" data3="1" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+          <record sequence="7">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="0" data3="1" modified="01/24/2014 -- 12:11:01 AM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x02" text="" lastUpdate="1/9/2014 3:20 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="1/9/2014 3:20 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="1/9/2014 3:20 PM" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="14.EC.5A" category="2" subcategory="6" revision="65" top="" ipk="00.00.00" wattage="0" webDeviceID="0" webGatewayControllerGroup="0" driver="ApplianceLinc02CS" displayName="Pool - Not connected" active="False" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="05/05/2013" />
+        <location value="Pool" room="Outdoors" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="3" lastUpdate="5/30/2013 12:51 PM" lastStatus="PendingSynch">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:51:10 PM" />
+          </record>
+          <record sequence="1">
+            <device address="20.FD.40" group="5" recordControl="162" data1="255" data2="31" data3="1" modified="05/30/2013 -- 12:51:09 PM" />
+          </record>
+          <record sequence="2">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/30/2013 -- 12:51:09 PM" />
+          </record>
+          <record sequence="3">
+            <pending address="19.2D.07" group="4" recordControl="162" data1="255" data2="0" data3="1" modified="12/19/2013 -- 06:02:33 PM" />
+          </record>
+          <record sequence="4">
+            <pending address="1B.59.C6" group="2" recordControl="162" data1="255" data2="0" data3="1" modified="12/19/2013 -- 06:02:33 PM" />
+          </record>
+          <record sequence="5">
+            <pending address="1E.4D.49" group="13" recordControl="162" data1="255" data2="0" data3="1" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x02" text="" lastUpdate="" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="17.90.64" category="3" subcategory="6" revision="146" top="" ipk="00.00.00" wattage="-2" webDeviceID="0" webGatewayControllerGroup="0" driver="IRLinc01" displayName="" active="False" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="05/18/2013" />
+        <location value="" room="Control" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+          <channel id="2" />
+          <channel id="3" />
+          <channel id="4" />
+          <channel id="5" />
+          <channel id="6" />
+          <channel id="7" />
+          <channel id="8" />
+          <channel id="9" />
+          <channel id="10" />
+          <channel id="11" />
+          <channel id="12" />
+        </channels>
+        <database sequence="1" lastUpdate="5/29/2013 12:29 AM" lastStatus="PendingSynch">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="FF.FF.FF" group="255" recordControl="255" data1="255" data2="255" data3="255" modified="" />
+          </record>
+          <record sequence="1">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="0" data2="0" data3="0" modified="05/18/2013 -- 12:21:31 PM" />
+          </record>
+          <record sequence="2">
+            <device address="FF.FF.FF" group="255" recordControl="255" data1="255" data2="255" data3="255" modified="" />
+          </record>
+          <record sequence="3">
+            <device address="1E.4D.49" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="" />
+          </record>
+          <record sequence="4">
+            <device address="1E.4D.49" group="5" recordControl="226" data1="3" data2="31" data3="5" modified="05/18/2013 -- 12:45:27 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1B.E2.FD" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/20/2013 -- 01:59:18 AM" />
+          </record>
+          <record sequence="6">
+            <device address="1C.AD.B1" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/20/2013 -- 02:00:19 AM" />
+          </record>
+          <record sequence="7">
+            <device address="1E.4D.49" group="8" recordControl="226" data1="3" data2="31" data3="8" modified="05/18/2013 -- 12:50:20 PM" />
+          </record>
+          <record sequence="8">
+            <device address="1E.4D.49" group="9" recordControl="226" data1="3" data2="31" data3="9" modified="" />
+          </record>
+          <record sequence="9">
+            <device address="1E.4D.49" group="10" recordControl="226" data1="3" data2="31" data3="10" modified="" />
+          </record>
+          <record sequence="10">
+            <device address="1E.4D.49" group="11" recordControl="226" data1="3" data2="31" data3="11" modified="" />
+          </record>
+          <record sequence="11">
+            <device address="1E.4D.49" group="12" recordControl="226" data1="3" data2="31" data3="12" modified="" />
+          </record>
+          <record sequence="12">
+            <device address="1A.66.8B" group="4" recordControl="226" data1="1" data2="25" data3="64" modified="" />
+          </record>
+          <record sequence="13">
+            <device address="1B.E2.FD" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="05/20/2013 -- 02:07:54 AM" />
+          </record>
+          <record sequence="14">
+            <device address="1C.AD.B1" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="05/20/2013 -- 02:08:56 AM" />
+          </record>
+          <record sequence="15">
+            <device address="1D.C2.FD" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="05/20/2013 -- 02:10:01 AM" />
+            <pending address="1D.C2.FD" group="4" recordControl="98" data1="3" data2="31" data3="4" modified="01/23/2014 -- 11:39:17 PM" />
+          </record>
+          <record sequence="16">
+            <device address="1A.66.8B" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/20/2013 -- 02:11:11 AM" />
+          </record>
+          <record sequence="17">
+            <device address="FF.FF.FF" group="255" recordControl="255" data1="255" data2="255" data3="255" modified="" />
+          </record>
+          <record sequence="18">
+            <device address="FF.FF.FF" group="255" recordControl="255" data1="255" data2="255" data3="255" modified="" />
+          </record>
+          <record sequence="19">
+            <device address="FF.FF.FF" group="255" recordControl="255" data1="255" data2="255" data3="255" modified="" />
+          </record>
+          <record sequence="20">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/18/2013 -- 12:34:46 PM" />
+          </record>
+          <record sequence="21">
+            <device address="1E.4D.49" group="2" recordControl="226" data1="3" data2="31" data3="2" modified="05/18/2013 -- 12:35:14 PM" />
+          </record>
+          <record sequence="22">
+            <device address="1E.4D.49" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/18/2013 -- 12:35:50 PM" />
+          </record>
+          <record sequence="23">
+            <device address="1E.4D.49" group="6" recordControl="226" data1="3" data2="31" data3="6" modified="05/18/2013 -- 12:36:16 PM" />
+          </record>
+          <record sequence="24">
+            <device address="1E.4D.49" group="7" recordControl="226" data1="3" data2="31" data3="7" modified="05/18/2013 -- 12:36:45 PM" />
+          </record>
+          <record sequence="25">
+            <device address="1F.4C.7B" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/29/2013 -- 12:24:12 AM" />
+          </record>
+          <record sequence="26">
+            <device address="20.FD.40" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="05/29/2013 -- 12:25:12 AM" />
+          </record>
+          <record sequence="27">
+            <device address="1F.FF.FF" group="255" recordControl="255" data1="255" data2="255" data3="255" modified="" />
+          </record>
+          <record sequence="28">
+            <device address="1D.C2.FD" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="05/20/2013 -- 01:55:50 AM" />
+            <pending address="1D.C2.FD" group="3" recordControl="98" data1="3" data2="31" data3="3" modified="01/23/2014 -- 11:39:17 PM" />
+          </record>
+          <record sequence="29">
+            <device address="1F.4C.7B" group="2" recordControl="226" data1="3" data2="31" data3="2" modified="05/22/2013 -- 01:04:05 PM" />
+          </record>
+          <record sequence="30">
+            <device address="20.FD.40" group="2" recordControl="226" data1="3" data2="31" data3="2" modified="05/22/2013 -- 01:04:45 PM" />
+          </record>
+        </database>
+      </device>
+      <device insteonID="24.30.7F" category="2" subcategory="26" revision="65" powerline="True" top="" ipk="00.00.00" wattage="0" webDeviceID="0" webGatewayControllerGroup="0" driver="ToggleLinc02RCS" displayName="Fan" active="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="" added="07/14/2013" />
+        <location value="Great Wall" room="Living" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="7/15/2013 12:05 AM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="07/15/2013 -- 12:05:04 AM" />
+          </record>
+          <record sequence="1">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="07/14/2013 -- 11:57:58 PM" />
+          </record>
+          <record sequence="2">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="07/14/2013 -- 11:58:02 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1B.59.C6" group="4" recordControl="162" data1="255" data2="31" data3="1" modified="07/15/2013 -- 12:01:51 AM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x00" text="" lastUpdate="7/14/2013 11:58 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x00" text="" lastUpdate="7/14/2013 11:58 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="7/14/2013 11:58 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="7/14/2013 11:58 PM" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1C" text="" lastUpdate="7/14/2013 11:58 PM" />
+          </p>
+          <p name="onLevel">
+            <device value="0xFF" text="" lastUpdate="7/14/2013 11:58 PM" />
+          </p>
+          <p name="opflags2">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="27.AB.F8" category="2" subcategory="56" revision="66" powerline="True" top="" ipk="00.00.00" wattage="-1" webDeviceID="0" webGatewayControllerGroup="0" driver="ApplianceLinc02CS" displayName="Christmas Lights - Not connected" active="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+        <notes value="current in hall downstairs" added="03/09/2014" />
+        <location value="Desk" room="Loft" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="12/19/2013 6:02 PM" lastStatus="PendingSynch">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="12/16/2013 -- 05:59:54 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="12/16/2013 -- 05:58:46 PM" />
+          </record>
+          <record sequence="2">
+            <device address="20.FD.40" group="6" recordControl="162" data1="0" data2="0" data3="1" modified="12/16/2013 -- 06:01:42 PM" />
+            <pending address="20.FD.40" group="6" recordControl="34" data1="0" data2="0" data3="1" modified="01/23/2014 -- 11:52:05 PM" />
+          </record>
+          <record sequence="3">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="0" data3="1" modified="12/16/2013 -- 06:01:00 PM" />
+          </record>
+          <record sequence="4">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="0" data3="1" modified="12/16/2013 -- 06:01:00 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="12/16/2013 -- 06:01:40 PM" />
+          </record>
+          <record sequence="6">
+            <device address="19.2D.07" group="4" recordControl="162" data1="255" data2="0" data3="1" modified="12/19/2013 -- 06:02:33 PM" />
+          </record>
+          <record sequence="7">
+            <device address="1B.59.C6" group="2" recordControl="162" data1="255" data2="0" data3="1" modified="12/19/2013 -- 06:02:33 PM" />
+          </record>
+          <record sequence="8">
+            <pending address="1E.4D.49" group="13" recordControl="162" data1="255" data2="0" data3="1" modified="01/09/2014 -- 06:11:40 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x40" text="" lastUpdate="3/9/2014 8:17 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="12/16/2013 5:59 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="12/16/2013 5:59 PM" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="29.2A.F1" category="2" subcategory="26" revision="65" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True" top="" ipk="00.00.00" wattage="-1" webDeviceID="0" webGatewayControllerGroup="0" driver="ToggleLinc02RCS" displayName="Track Lights" active="True">
+        <notes value="" added="01/23/2014" />
+        <location value="Top of staircase" room="Lower Staircase" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="4/12/2014 12:20 AM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="01/23/2014 -- 11:37:06 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="0" data3="1" modified="01/23/2014 -- 11:56:56 PM" />
+          </record>
+          <record sequence="2">
+            <device address="1A.66.8B" group="1" recordControl="162" data1="255" data2="31" data3="1" modified="01/23/2014 -- 11:49:25 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1A.66.8B" group="1" recordControl="226" data1="3" data2="0" data3="1" modified="01/24/2014 -- 04:36:36 PM" />
+          </record>
+          <record sequence="4">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="0" data3="1" modified="01/23/2014 -- 11:56:54 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="01/23/2014 -- 11:56:54 PM" />
+          </record>
+          <record sequence="6">
+            <device address="1B.59.C6" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="01/24/2014 -- 10:37:00 AM" />
+          </record>
+          <record sequence="7">
+            <device address="1B.59.C6" group="5" recordControl="162" data1="255" data2="0" data3="1" modified="01/24/2014 -- 12:03:31 AM" />
+          </record>
+          <record sequence="8">
+            <device address="1B.E2.FD" group="1" recordControl="226" data1="3" data2="0" data3="1" modified="01/24/2014 -- 04:36:36 PM" />
+          </record>
+          <record sequence="9">
+            <device address="1B.E2.FD" group="1" recordControl="162" data1="255" data2="31" data3="1" modified="04/12/2014 -- 12:20:15 AM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x42" text="" lastUpdate="1/23/2014 11:39 PM" />
+            <pending value="0x02" text="" lastUpdate="1/23/2014 11:39 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x3F" text="" lastUpdate="1/23/2014 11:39 PM" />
+          </p>
+          <p name="opflags2">
+            <device value="0x03" text="" lastUpdate="1/23/2014 11:37 PM" />
+            <pending value="0x08" text="" lastUpdate="1/23/2014 11:39 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1C" text="" lastUpdate="1/23/2014 11:37 PM" />
+          </p>
+          <p name="onLevel">
+            <device value="0xFF" text="" lastUpdate="1/23/2014 11:39 PM" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="1D.FC.1F" category="1" subcategory="27" revision="65" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True" top="" ipk="00.00.00" wattage="-1" webDeviceID="0" webGatewayControllerGroup="0" driver="KeypadLinc03DCS" displayName="Plugs and Fan - Not connected" active="True">
+        <notes value="Plugs and fan, not currently connected" added="03/08/2014" />
+        <location value="Far right" room="Breakfast Nook" />
+        <customProperties />
+        <channels>
+          <channel id="1">
+            <onMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/8/2014 10:31 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="254" lastUpdate="3/8/2014 10:31 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="28" lastUpdate="3/8/2014 10:31 PM" />
+            </rampRate>
+          </channel>
+          <channel id="2">
+            <onMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/8/2014 10:31 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </rampRate>
+          </channel>
+          <channel id="3">
+            <onMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/8/2014 10:31 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </rampRate>
+          </channel>
+          <channel id="4">
+            <onMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/8/2014 10:31 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </rampRate>
+          </channel>
+          <channel id="5">
+            <onMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/8/2014 10:31 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </rampRate>
+          </channel>
+          <channel id="6">
+            <onMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/8/2014 10:31 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </rampRate>
+          </channel>
+          <channel id="7">
+            <onMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/8/2014 10:31 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </rampRate>
+          </channel>
+          <channel id="8">
+            <onMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onMask>
+            <offMask>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </offMask>
+            <toggleMode>
+              <device value="Toggle" lastUpdate="3/8/2014 10:31 PM" />
+            </toggleMode>
+            <onLevel>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </onLevel>
+            <rampRate>
+              <device value="0" lastUpdate="3/8/2014 10:31 PM" />
+            </rampRate>
+          </channel>
+        </channels>
+        <database sequence="1" lastUpdate="3/8/2014 10:49 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="170" data1="0" data2="28" data3="3" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="1">
+            <device address="1E.4D.49" group="242" recordControl="162" data1="255" data2="31" data3="2" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="2">
+            <device address="1E.4D.49" group="243" recordControl="162" data1="255" data2="31" data3="3" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1E.4D.49" group="244" recordControl="162" data1="255" data2="31" data3="4" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="4">
+            <device address="1E.4D.49" group="245" recordControl="162" data1="255" data2="31" data3="5" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1E.4D.49" group="246" recordControl="162" data1="255" data2="31" data3="6" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="6">
+            <device address="1E.4D.49" group="247" recordControl="162" data1="255" data2="31" data3="7" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="7">
+            <device address="1E.4D.49" group="248" recordControl="162" data1="255" data2="31" data3="8" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="8">
+            <device address="1E.4D.49" group="4" recordControl="226" data1="3" data2="31" data3="4" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="9">
+            <device address="1E.4D.49" group="5" recordControl="226" data1="3" data2="31" data3="5" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="10">
+            <device address="1E.4D.49" group="6" recordControl="226" data1="3" data2="31" data3="6" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="11">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="12">
+            <device address="1E.4D.49" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="03/08/2014 -- 10:31:49 PM" />
+          </record>
+          <record sequence="13">
+            <device address="19.2D.07" group="4" recordControl="162" data1="255" data2="26" data3="1" modified="03/08/2014 -- 10:49:07 PM" />
+          </record>
+          <record sequence="14">
+            <device address="1B.59.C6" group="2" recordControl="162" data1="255" data2="26" data3="1" modified="03/08/2014 -- 10:49:07 PM" />
+          </record>
+          <record sequence="15">
+            <device address="1E.4D.49" group="13" recordControl="162" data1="255" data2="26" data3="1" modified="03/08/2014 -- 10:49:07 PM" />
+          </record>
+          <record sequence="16">
+            <device address="19.2D.07" group="6" recordControl="162" data1="0" data2="27" data3="1" modified="03/08/2014 -- 10:49:45 PM" />
+          </record>
+          <record sequence="17">
+            <device address="1B.59.C6" group="8" recordControl="162" data1="0" data2="27" data3="1" modified="03/08/2014 -- 10:49:45 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x20" text="" lastUpdate="3/8/2014 10:31 PM" />
+          </p>
+          <p name="ledDimming">
+            <device value="0x3F" text="" lastUpdate="3/8/2014 10:31 PM" />
+          </p>
+          <p name="nonToggleMask">
+            <device value="0x00" text="" lastUpdate="3/8/2014 10:31 PM" />
+          </p>
+          <p name="nonToggleOnOffMask">
+            <device value="0x00" text="" lastUpdate="3/8/2014 10:31 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="3/8/2014 10:31 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x20" text="" lastUpdate="3/8/2014 10:31 PM" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="27.75.70" category="16" subcategory="1" revision="65" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True" top="" ipk="00.00.00" wattage="-2" webDeviceID="0" webGatewayControllerGroup="0" driver="MotionDetector02CS" displayName="" active="True">
+        <notes value="" added="03/09/2014" />
+        <location value="Garage Entrance" room="Downstairs Hallway" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+          <channel id="2" />
+          <channel id="3" />
+        </channels>
+        <database sequence="0" lastUpdate="" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="3" data2="0" data3="0" modified="03/09/2014 -- 07:37:43 PM" />
+          </record>
+          <record sequence="1">
+            <device address="25.1C.72" group="2" recordControl="226" data1="3" data2="31" data3="2" modified="03/09/2014 -- 08:58:23 PM" />
+          </record>
+          <record sequence="2">
+            <device address="25.1C.72" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="03/09/2014 -- 08:58:26 PM" />
+          </record>
+          <record sequence="3">
+            <device address="1E.4D.49" group="3" recordControl="226" data1="3" data2="31" data3="3" modified="03/09/2014 -- 07:37:43 PM" />
+          </record>
+          <record sequence="4">
+            <device address="1E.4D.49" group="2" recordControl="226" data1="3" data2="31" data3="2" modified="03/09/2014 -- 08:58:20 PM" />
+          </record>
+          <record sequence="5">
+            <device address="1E.4D.49" group="1" recordControl="226" data1="3" data2="31" data3="1" modified="03/09/2014 -- 08:58:20 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="syncRequest">
+            <device value="0x00" text="" lastUpdate="3/9/2014 8:58 PM" />
+          </p>
+          <p name="ledBrightness">
+            <device value="0x80" text="" lastUpdate="3/9/2014 8:58 PM" />
+          </p>
+          <p name="timeout">
+            <device value="0x01" text="" lastUpdate="3/9/2014 8:58 PM" />
+          </p>
+          <p name="lightSensitivity">
+            <device value="0x80" text="" lastUpdate="3/9/2014 8:58 PM" />
+          </p>
+          <p name="group1On">
+            <device value="0x01" text="" lastUpdate="3/9/2014 8:58 PM" />
+          </p>
+          <p name="group2On">
+            <device value="0x01" text="" lastUpdate="3/9/2014 8:58 PM" />
+          </p>
+          <p name="group3On">
+            <device value="0x01" text="" lastUpdate="3/9/2014 8:58 PM" />
+          </p>
+          <p name="bitFlags">
+            <device value="0x1A" text="" lastUpdate="3/9/2014 8:58 PM" />
+          </p>
+          <p name="hwTimeout">
+            <device value="0x01" text="" lastUpdate="" />
+          </p>
+          <p name="hwLightSensitivity">
+            <device value="0x80" text="" lastUpdate="" />
+          </p>
+          <p name="jumpers">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+          <p name="ambientLightIntensity">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+          <p name="batteryLevel">
+            <device value="0x5A" text="" lastUpdate="" />
+          </p>
+          <p name="useNextLightIntensityRead">
+            <device value="0x00" text="" lastUpdate="" />
+          </p>
+        </properties>
+      </device>
+      <device insteonID="25.1C.72" category="2" subcategory="8" revision="66" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True" top="" ipk="00.00.00" wattage="-1" webDeviceID="0" webGatewayControllerGroup="0" driver="OutletLinc01RCS" displayName="Nightlight" active="True">
+        <notes value="" added="03/09/2014" />
+        <location value="Garage Entrance" room="Hallway" />
+        <customProperties />
+        <channels>
+          <channel id="1" />
+        </channels>
+        <database sequence="1" lastUpdate="3/9/2014 8:24 PM" lastStatus="Synchronized">
+          <readResumeData timeStamp="" sequence="0" lastSuccessIndex="0" />
+          <record sequence="0">
+            <device address="1E.4D.49" group="0" recordControl="162" data1="255" data2="31" data3="1" modified="03/09/2014 -- 08:20:07 PM" />
+          </record>
+          <record sequence="1">
+            <device address="27.75.70" group="1" recordControl="162" data1="255" data2="31" data3="1" modified="03/09/2014 -- 08:23:43 PM" />
+          </record>
+          <record sequence="2">
+            <device address="27.75.70" group="2" recordControl="162" data1="0" data2="31" data3="1" modified="03/09/2014 -- 08:24:01 PM" />
+          </record>
+        </database>
+        <properties>
+          <p name="operatingFlags">
+            <device value="0x40" text="" lastUpdate="3/9/2014 8:20 PM" />
+          </p>
+          <p name="X10House">
+            <device value="0x20" text="" lastUpdate="3/9/2014 8:20 PM" />
+          </p>
+          <p name="X10Unit">
+            <device value="0x00" text="" lastUpdate="3/9/2014 8:20 PM" />
+          </p>
+          <p name="rampRate">
+            <device value="0x1C" text="" lastUpdate="3/9/2014 8:20 PM" />
+          </p>
+        </properties>
+      </device>
+    </active_devices>
+    <active_gateways>
+      <gateway insteonID="1E.4D.49">
+        <port serialNumber="A501LDP5" />
+      </gateway>
+    </active_gateways>
+    <scenes nextSceneID="5">
+      <scene id="1" name="Utility Lights" lastTrigger="04/29/2014 01:15:32 AM, Off, Succeeded" notes="">
+        <members>
+          <member iid="1A.66.8B" group="1" controller="False" responder="True" data1="255" data2="28" data3="1" status="Done" tag="1" />
+          <member iid="1B.E2.FD" group="1" controller="False" responder="True" data1="255" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="1B.59.C6" group="5" controller="True" responder="False" data1="255" data2="28" data3="5" status="Done" tag="34" />
+          <member iid="29.2A.F1" group="1" controller="True" responder="True" data1="255" data2="0" data3="1" status="Done" tag="3" />
+        </members>
+      </scene>
+      <scene id="2" name="Ambient" lastTrigger="04/15/2014 02:42:03 PM, Off" notes="">
+        <members>
+          <member iid="19.2D.07" group="1" controller="False" responder="True" data1="255" data2="0" data3="1" status="Done" tag="33" />
+          <member iid="1B.59.C6" group="1" controller="False" responder="True" data1="76" data2="26" data3="1" status="Done" tag="33" />
+          <member iid="19.2D.07" group="4" controller="True" responder="False" data1="255" data2="0" data3="4" status="Done" tag="34" />
+          <member iid="19.2D.07" group="6" controller="False" responder="True" data1="0" data2="0" data3="6" status="Done" tag="33" />
+          <member iid="1B.59.C6" group="8" controller="False" responder="True" data1="0" data2="28" data3="8" status="Done" tag="33" />
+          <member iid="1B.59.C6" group="2" controller="True" responder="False" data1="255" data2="28" data3="2" status="Done" tag="34" />
+          <member iid="23.C7.59" group="1" controller="False" responder="True" data1="102" data2="26" data3="1" status="Done" tag="1" />
+          <member iid="21.3E.46" group="1" controller="False" responder="True" data1="255" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="27.AB.F8" group="1" controller="False" responder="True" data1="255" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="14.EC.5A" group="1" controller="False" responder="True" data1="255" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="1E.4D.49" group="13" controller="True" responder="False" data1="255" data2="28" data3="13" status="Done" tag="34" />
+          <member iid="1D.C2.FD" group="1" controller="False" responder="True" data1="102" data2="26" data3="1" status="Done" tag="1" />
+          <member iid="1D.FC.1F" group="1" controller="False" responder="True" data1="255" data2="26" data3="1" status="Done" tag="33" />
+        </members>
+      </scene>
+      <scene id="3" name="Movie Room" lastTrigger="04/14/2014 02:36:44 AM, Off" notes="">
+        <members>
+          <member iid="1C.AD.B1" group="1" controller="False" responder="True" data1="127" data2="27" data3="1" status="Done" tag="1" />
+          <member iid="1B.59.C6" group="6" controller="True" responder="False" data1="255" data2="28" data3="6" status="Awaiting Save" tag="34" />
+        </members>
+      </scene>
+      <scene id="4" name="All Off" lastTrigger="04/28/2014 02:35:57 AM, On" notes="">
+        <members>
+          <member iid="1A.66.8B" group="1" controller="False" responder="True" data1="0" data2="31" data3="1" status="Done" tag="1" />
+          <member iid="1B.E2.FD" group="1" controller="False" responder="True" data1="0" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="1C.AD.B1" group="1" controller="False" responder="True" data1="0" data2="31" data3="1" status="Done" tag="1" />
+          <member iid="1F.4C.7B" group="1" controller="False" responder="True" data1="0" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="1D.C2.FD" group="1" controller="False" responder="True" data1="0" data2="31" data3="1" status="Done" tag="1" />
+          <member iid="1B.59.C6" group="1" controller="False" responder="True" data1="0" data2="31" data3="1" status="Done" tag="33" />
+          <member iid="19.2D.07" group="1" controller="False" responder="True" data1="0" data2="0" data3="1" status="Done" tag="33" />
+          <member iid="19.2D.07" group="6" controller="True" responder="False" data1="0" data2="0" data3="6" status="Done" tag="34" />
+          <member iid="1B.59.C6" group="8" controller="True" responder="False" data1="0" data2="28" data3="8" status="Done" tag="34" />
+          <member iid="1B.59.C6" group="2" controller="False" responder="True" data1="0" data2="28" data3="2" status="Done" tag="33" />
+          <member iid="1B.59.C6" group="3" controller="False" responder="True" data1="0" data2="28" data3="3" status="Done" tag="33" />
+          <member iid="19.2D.07" group="4" controller="False" responder="True" data1="0" data2="0" data3="4" status="Done" tag="33" />
+          <member iid="23.C7.59" group="1" controller="False" responder="True" data1="0" data2="31" data3="1" status="Done" tag="1" />
+          <member iid="1B.59.C6" group="5" controller="False" responder="True" data1="0" data2="28" data3="5" status="Done" tag="33" />
+          <member iid="1B.59.C6" group="6" controller="False" responder="True" data1="0" data2="28" data3="6" status="Done" tag="33" />
+          <member iid="27.AB.F8" group="1" controller="False" responder="True" data1="0" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="29.2A.F1" group="1" controller="False" responder="True" data1="0" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="21.3E.46" group="1" controller="False" responder="True" data1="0" data2="0" data3="1" status="Done" tag="1" />
+          <member iid="1D.FC.1F" group="1" controller="False" responder="True" data1="0" data2="27" data3="1" status="Done" tag="33" />
+        </members>
+      </scene>
+    </scenes>
+    <tasks>
+    </tasks>
+  </insteon>
+  <houseLinc />
+  <application>
+    <performance messagePause="11" startHop="3" firmwareRetry="3" />
+    <options singleClickSelect="False" />
+    <startup doSyncProcess="False" confirmSyncProcess="False" showEngineOptions="False" />
+    <sendMessage retry="2" peakPokeRetry="2" delayAfterAck="1000" />
+    <restorePoints autoSaveRestorePoints="False" autoSaveRestorePointsInterval="13" />
+    <modem configFlag="48" />
+    <houseSync fullSync="False" createChangeReport="False" changeReportEmails="" />
+    <appRetry retryFlag="0" emailFlag="0" pause="False" rcpt="" cc="" bcc="" subject="" body="" sbi="False" />
+    <appRetryWaits broadcast="10" plmCleanup="10" />
+    <house name="" />
+    <notification plmConnection="False" />
+    <email name="" address="" login="" smtpServer="" port="13" useSSL="True" defaultRecipient="False" password="" />
+    <location state="MD" city="Middletown" lat="39.441155" lon="-77.543761" />
+    <uiSettings>
+      <main bounds="115, 0, 1066, 768">
+        <deviceList width="458" />
+        <log level="4" />
+      </main>
+    </uiSettings>
+    <webServices webEnabled="False" webName="" webPassword="" webHouseId="0" nextDeviceGroup="128" />
+  </application>
+  <scripts nextEventID="14">
+    <script id="1" name="System Maintenance" enabled="False" system="True">
+      <lastRun lastRunTime="" result="All Succeeded" />
+      <triggers>
+        <trigger id="TimeOfDay" system="True" time="01:00:00" vary="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/29/2014 1:00 AM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="SystemMaintenance" system="True">
+          <source type="System" />
+          <lastRun lastRun="12/4/2012 2:20 AM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="2" name="Evening - Spots" enabled="True" system="False">
+      <lastRun lastRunTime="4/28/2014 8:00 PM" result="All Succeeded" />
+      <triggers>
+        <trigger id="Sunset" system="False" vary="0" offset="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 8:00 PM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOn" system="False">
+          <source type="InsteonDevice" address="20.FD.40" channelID="1" />
+          <lastRun lastRun="4/28/2014 8:00 PM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="3" name="Morning - Spots" enabled="True" system="False">
+      <lastRun lastRunTime="4/28/2014 6:15 AM" result="All Succeeded" />
+      <triggers>
+        <trigger id="Sunrise" system="False" vary="0" offset="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 6:15 AM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOff" system="False">
+          <source type="InsteonDevice" address="20.FD.40" channelID="1" />
+          <lastRun lastRun="4/28/2014 6:15 AM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="9" name="Late Morning - Pool" enabled="False" system="False">
+      <lastRun lastRunTime="9/17/2013 7:00 AM" result="All Succeeded" />
+      <triggers>
+        <trigger id="TimeOfDay" system="False" time="07:00:00" vary="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 7:00 AM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOn" system="False">
+          <source type="InsteonDevice" address="14.EC.5A" channelID="1" />
+          <lastRun lastRun="9/17/2013 7:00 AM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="8" name="Early Evening - Pool" enabled="False" system="False">
+      <lastRun lastRunTime="9/16/2013 7:00 PM" result="All Succeeded" />
+      <triggers>
+        <trigger id="TimeOfDay" system="False" time="19:00:00" vary="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 7:00 PM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOn" system="False">
+          <source type="InsteonDevice" address="14.EC.5A" channelID="1" />
+          <lastRun lastRun="9/16/2013 7:00 PM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="6" name="Midnight - Pool" enabled="False" system="False">
+      <lastRun lastRunTime="9/16/2013 11:59 PM" result="All Succeeded" />
+      <triggers>
+        <trigger id="TimeOfDay" system="False" time="23:59:00" vary="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 11:59 PM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOff" system="False">
+          <source type="InsteonDevice" address="14.EC.5A" channelID="1" />
+          <lastRun lastRun="9/16/2013 11:59 PM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="7" name="Noon - Pool" enabled="False" system="False">
+      <lastRun lastRunTime="9/16/2013 11:59 AM" result="All Succeeded" />
+      <triggers>
+        <trigger id="TimeOfDay" system="False" time="11:59:00" vary="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 11:59 AM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOff" system="False">
+          <source type="InsteonDevice" address="14.EC.5A" channelID="1" />
+          <lastRun lastRun="9/16/2013 11:59 AM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="10" name="Very Late Afternoon - Pool" enabled="False" system="False">
+      <lastRun lastRunTime="9/16/2013 4:50 PM" result="All Succeeded" />
+      <triggers>
+        <trigger id="TimeOfDay" system="False" time="16:50:00" vary="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 4:50 PM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOn" system="False">
+          <source type="InsteonDevice" address="14.EC.5A" channelID="1" />
+          <lastRun lastRun="9/16/2013 4:50 PM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="11" name="Sunset - Accent" enabled="True" system="False">
+      <lastRun lastRunTime="4/28/2014 8:00 PM" result="All Succeeded" />
+      <triggers>
+        <trigger id="Sunset" system="False" vary="0" offset="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 8:00 PM" result="" />
+        </trigger>
+        <trigger id="TimeOfDay" system="False" time="18:14:00" vary="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 6:14 PM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TriggerScene" system="False">
+          <source type="Scene" sceneID="2" gateway="1E.4D.49" gatewayGroup="13" groupRequired="True" command="TurnOn" />
+          <lastRun lastRun="4/28/2014 8:00 PM" result="Success" />
+        </action>
+      </actions>
+    </script>
+    <script id="12" name="Evening - Plants" enabled="False" system="False">
+      <lastRun lastRunTime="" result="" />
+      <triggers>
+        <trigger id="Sunset" system="False" vary="0" offset="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 8:00 PM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOff" system="False">
+          <source type="InsteonDevice" address="21.3E.46" channelID="1" />
+          <lastRun lastRun="" result="" />
+        </action>
+      </actions>
+    </script>
+    <script id="13" name="Morning - Plants" enabled="False" system="False">
+      <lastRun lastRunTime="" result="" />
+      <triggers>
+        <trigger id="Sunrise" system="False" vary="0" offset="0">
+          <source type="Clock" />
+          <lastRun lastRun="4/28/2014 6:15 AM" result="" />
+        </trigger>
+      </triggers>
+      <conditions />
+      <actions>
+        <action id="TurnOn" system="False">
+          <source type="InsteonDevice" address="21.3E.46" channelID="1" />
+          <lastRun lastRun="" result="" />
+        </action>
+      </actions>
+    </script>
+  </scripts>
+  <cameras />
+  <X10 />
+  <itachs />
+</settings>
