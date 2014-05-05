@@ -1,7 +1,13 @@
 #!/usr/bin/python
 
-import Device
+import time
+from device import Device
 
-device=Device("devices.xml")
-device.howmany()
-print "Dork nook track light id {0}".format(device.getDeviceByRoomAndName("Dork Nook - Track Lights"))
+Device.loadAll("../../private/devices.xml")
+Device.howmany()
+device=Device.getDeviceByRoomAndName("Kitchen - Lights")
+print "{1} id {0}".format(device.insteonID, device.name)
+device.turnOn()
+time.sleep(5)
+device.turnOff()
+

@@ -3,9 +3,9 @@ import eiscp
 import socket
 import serial
 import time
-import requests
-from jinsteon import Device
 import os
+from jinsteon import Device
+
 
 def call():
     """
@@ -17,6 +17,29 @@ def call():
     but if there are ever any services that return useful data in different formats it may be good practice.
     """
     return service()
+
+@service.json
+def allDevices():
+    return Device.devicesTwoDimensional
+
+@service.run
+def turnOnInsteonDevice():
+    try:
+        serviceType,method,deviceID = request.args[:3]
+    except:
+        redirect('some_error_page')
+    return Device.getDeviceByInsteonID(deviceID).turnOn()
+
+@service.run
+def turnOffInsteonDevice():
+    # buffstatus.xml
+    # sx.xml?23C759=1900 / status
+    # status.xml
+    try:
+        serviceType,method,deviceID = request.args[:3]
+    except:
+        redirect('some_error_page')
+    return Device.devicesByInsteonID[deviceID].turnOff()
 
 @service.run
 def wallUp():
@@ -80,13 +103,11 @@ def turnOffAudio():
     receiver.writeCommandFromName('Power OFF')
     
 def turnOffLights():
-    devicePath = os.path.join(request.folder, 'private', 'devices.xml')
-    deviceId = Device(devicePath).getDeviceByRoomAndName("Movie - Lights").translate(None, '.')
-    r = requests.get('http://192.168.0.50:25105/3?0262{0}0F13FF=I=3-'.format(deviceId))
-    r.status_code
+    device = Device.getDeviceByRoomAndName("Movie - Lights").turnOff();
+    device = Device.getDeviceByRoomAndName("Unfinished Basement - Lights").turnOff()
+    device = Device.getDeviceByRoomAndName("Lower Staircase - Track Lights").turnOff()
 
 def turnOnLights():
-    devicePath = os.path.join(request.folder, 'private', 'devices.xml')
-    deviceId = Device(devicePath).getDeviceByRoomAndName("Movie - Lights").translate(None, '.')
-    r = requests.get('http://192.168.0.50:25105/3?0262{0}0F11FF=I=3-'.format(deviceId))
-    r.status_code
+    device = Device.getDeviceByRoomAndName("Movie - Lights").turnOn();
+    device = Device.getDeviceByRoomAndName("Unfinished Basement - Lights").turnOn()
+    device = Device.getDeviceByRoomAndName("Lower Staircase - Track Lights").turnOn()

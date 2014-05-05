@@ -578,7 +578,7 @@
           </record>
         </database>
       </device>
-      <device insteonID="1A.66.8B" category="1" subcategory="25" revision="64" top="" ipk="00.00.00" wattage="0" driver="SwitchLinc02D" displayName="Track Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+      <device insteonID="1A.66.8B" category="1" subcategory="25" revision="64" top="" ipk="00.00.00" wattage="-1" driver="SwitchLinc02D" displayName="Track Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
         <notes value="" added="12/01/2012" />
         <location value="Movie Room" room="Dork Nook" />
         <customProperties />
@@ -651,7 +651,7 @@
           </p>
         </properties>
       </device>
-      <device insteonID="1B.E2.FD" category="2" subcategory="28" revision="65" top="" ipk="00.00.00" wattage="-1" driver="SwitchLinc02RCS" displayName="Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+      <device insteonID="1B.E2.FD" category="2" subcategory="28" revision="65" top="" ipk="00.00.00" wattage="0" driver="SwitchLinc02RCS" displayName="Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
         <notes value="" added="12/01/2012" />
         <location value="Movie Room" room="Unfinished Basement" />
         <customProperties />
@@ -867,7 +867,7 @@
           </p>
         </properties>
       </device>
-      <device insteonID="1D.C2.FD" category="1" subcategory="32" revision="65" top="" ipk="00.00.00" wattage="-1" driver="SwitchLinc02DCS" displayName="High Accents" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+      <device insteonID="1D.C2.FD" category="1" subcategory="32" revision="65" top="" ipk="00.00.00" wattage="0" driver="SwitchLinc02DCS" displayName="High Accents" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
         <notes value="" added="12/03/2012" />
         <location value="Left of Fireplace" room="Breakfast Nook" />
         <customProperties />
@@ -927,29 +927,29 @@
         </database>
         <properties>
           <p name="operatingFlags">
-            <device value="0x02" text="" lastUpdate="12/26/2012 7:04 PM" />
+            <device value="0x02" text="" lastUpdate="5/2/2014 11:49 PM" />
           </p>
           <p name="ledDimming">
-            <device value="0x3F" text="" lastUpdate="12/26/2012 7:04 PM" />
+            <device value="0x3F" text="" lastUpdate="5/2/2014 11:49 PM" />
           </p>
           <p name="X10House">
-            <device value="0x20" text="" lastUpdate="12/26/2012 7:04 PM" />
+            <device value="0x20" text="" lastUpdate="5/2/2014 11:49 PM" />
           </p>
           <p name="X10Unit">
-            <device value="0x20" text="" lastUpdate="12/26/2012 7:04 PM" />
+            <device value="0x20" text="" lastUpdate="5/2/2014 11:49 PM" />
           </p>
           <p name="rampRate">
-            <device value="0x1C" text="" lastUpdate="12/26/2012 7:04 PM" />
+            <device value="0x1F" text="" lastUpdate="5/2/2014 11:49 PM" />
           </p>
           <p name="onLevel">
-            <device value="0xFF" text="" lastUpdate="12/26/2012 7:04 PM" />
+            <device value="0xFF" text="" lastUpdate="5/2/2014 11:49 PM" />
           </p>
           <p name="opflags2">
             <device value="0x08" text="" lastUpdate="" />
           </p>
         </properties>
       </device>
-      <device insteonID="1B.59.C6" category="1" subcategory="28" revision="64" top="" ipk="00.00.00" wattage="-1" driver="KeypadLinc03D" displayName="Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+      <device insteonID="1B.59.C6" category="1" subcategory="28" revision="64" top="" ipk="00.00.00" wattage="0" driver="KeypadLinc03D" displayName="Lights" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
         <notes value="" added="12/26/2012" />
         <location value="Kitchen" room="Dining" />
         <customProperties />
@@ -1587,9 +1587,9 @@
           </p>
         </properties>
       </device>
-      <device insteonID="20.FD.40" category="2" subcategory="44" revision="65" top="" ipk="00.00.00" wattage="-1" driver="KeypadLinc03RCS" displayName="Spots" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+      <device insteonID="20.FD.40" category="2" subcategory="44" revision="65" top="" ipk="00.00.00" wattage="0" driver="KeypadLinc03RCS" displayName="Spots" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
         <notes value="Controls spots" added="03/24/2013" />
-        <location value="Garage Entrance" room="Hallway" />
+        <location value="Garage Entrance" room="Outdoors" />
         <customProperties />
         <channels>
           <channel id="1">
@@ -1840,7 +1840,7 @@
           </p>
         </properties>
       </device>
-      <device insteonID="23.C7.59" category="1" subcategory="32" revision="65" top="" ipk="00.00.00" wattage="-1" driver="SwitchLinc02DCS" displayName="Low Accents" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
+      <device insteonID="23.C7.59" category="1" subcategory="32" revision="65" top="" ipk="00.00.00" wattage="0" driver="SwitchLinc02DCS" displayName="Low Accents" active="True" webDeviceID="0" webGatewayControllerGroup="0" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True">
         <notes value="" added="05/03/2013" />
         <location value="Right of fireplace" room="Breakfast Nook" />
         <customProperties />
@@ -2197,7 +2197,7 @@
           </p>
         </properties>
       </device>
-      <device insteonID="29.2A.F1" category="2" subcategory="26" revision="65" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True" top="" ipk="00.00.00" wattage="-1" webDeviceID="0" webGatewayControllerGroup="0" driver="ToggleLinc02RCS" displayName="Track Lights" active="True">
+      <device insteonID="29.2A.F1" category="2" subcategory="26" revision="65" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True" top="" ipk="00.00.00" wattage="0" webDeviceID="0" webGatewayControllerGroup="0" driver="ToggleLinc02RCS" displayName="Track Lights" active="True">
         <notes value="" added="01/23/2014" />
         <location value="Top of staircase" room="Lower Staircase" />
         <customProperties />
@@ -2558,7 +2558,7 @@
           </p>
         </properties>
       </device>
-      <device insteonID="25.1C.72" category="2" subcategory="8" revision="66" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True" top="" ipk="00.00.00" wattage="-1" webDeviceID="0" webGatewayControllerGroup="0" driver="OutletLinc01RCS" displayName="Nightlight" active="True">
+      <device insteonID="25.1C.72" category="2" subcategory="8" revision="66" powerline="True" radio="True" yakityYak="True" hopIfModSyncFails="True" top="" ipk="00.00.00" wattage="0" webDeviceID="0" webGatewayControllerGroup="0" driver="OutletLinc01RCS" displayName="Nightlight" active="True">
         <notes value="" added="03/09/2014" />
         <location value="Garage Entrance" room="Hallway" />
         <customProperties />
@@ -2599,7 +2599,7 @@
       </gateway>
     </active_gateways>
     <scenes nextSceneID="5">
-      <scene id="1" name="Utility Lights" lastTrigger="04/29/2014 01:15:32 AM, Off, Succeeded" notes="">
+      <scene id="1" name="Utility Lights" lastTrigger="05/02/2014 10:49:26 PM, Off, Succeeded" notes="">
         <members>
           <member iid="1A.66.8B" group="1" controller="False" responder="True" data1="255" data2="28" data3="1" status="Done" tag="1" />
           <member iid="1B.E2.FD" group="1" controller="False" responder="True" data1="255" data2="0" data3="1" status="Done" tag="1" />
@@ -2607,7 +2607,7 @@
           <member iid="29.2A.F1" group="1" controller="True" responder="True" data1="255" data2="0" data3="1" status="Done" tag="3" />
         </members>
       </scene>
-      <scene id="2" name="Ambient" lastTrigger="04/15/2014 02:42:03 PM, Off" notes="">
+      <scene id="2" name="Ambient" lastTrigger="04/29/2014 02:02:31 PM, On" notes="">
         <members>
           <member iid="19.2D.07" group="1" controller="False" responder="True" data1="255" data2="0" data3="1" status="Done" tag="33" />
           <member iid="1B.59.C6" group="1" controller="False" responder="True" data1="76" data2="26" data3="1" status="Done" tag="33" />
@@ -2624,13 +2624,13 @@
           <member iid="1D.FC.1F" group="1" controller="False" responder="True" data1="255" data2="26" data3="1" status="Done" tag="33" />
         </members>
       </scene>
-      <scene id="3" name="Movie Room" lastTrigger="04/14/2014 02:36:44 AM, Off" notes="">
+      <scene id="3" name="Movie Room" lastTrigger="05/01/2014 02:54:33 AM, Off" notes="">
         <members>
           <member iid="1C.AD.B1" group="1" controller="False" responder="True" data1="127" data2="27" data3="1" status="Done" tag="1" />
           <member iid="1B.59.C6" group="6" controller="True" responder="False" data1="255" data2="28" data3="6" status="Awaiting Save" tag="34" />
         </members>
       </scene>
-      <scene id="4" name="All Off" lastTrigger="04/28/2014 02:35:57 AM, On" notes="">
+      <scene id="4" name="All Off" lastTrigger="05/02/2014 04:04:24 AM, On" notes="">
         <members>
           <member iid="1A.66.8B" group="1" controller="False" responder="True" data1="0" data2="31" data3="1" status="Done" tag="1" />
           <member iid="1B.E2.FD" group="1" controller="False" responder="True" data1="0" data2="0" data3="1" status="Done" tag="1" />
@@ -2673,8 +2673,8 @@
     <email name="" address="" login="" smtpServer="" port="13" useSSL="True" defaultRecipient="False" password="" />
     <location state="MD" city="Middletown" lat="39.441155" lon="-77.543761" />
     <uiSettings>
-      <main bounds="115, 0, 1066, 768">
-        <deviceList width="458" />
+      <main bounds="0, 0, 1280, 768">
+        <deviceList width="574" />
         <log level="4" />
       </main>
     </uiSettings>
@@ -2686,7 +2686,7 @@
       <triggers>
         <trigger id="TimeOfDay" system="True" time="01:00:00" vary="0">
           <source type="Clock" />
-          <lastRun lastRun="4/29/2014 1:00 AM" result="" />
+          <lastRun lastRun="5/4/2014 1:00 AM" result="" />
         </trigger>
       </triggers>
       <conditions />
@@ -2698,34 +2698,34 @@
       </actions>
     </script>
     <script id="2" name="Evening - Spots" enabled="True" system="False">
-      <lastRun lastRunTime="4/28/2014 8:00 PM" result="All Succeeded" />
+      <lastRun lastRunTime="5/3/2014 8:05 PM" result="All Failed" />
       <triggers>
         <trigger id="Sunset" system="False" vary="0" offset="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 8:00 PM" result="" />
+          <lastRun lastRun="5/3/2014 8:05 PM" result="" />
         </trigger>
       </triggers>
       <conditions />
       <actions>
         <action id="TurnOn" system="False">
           <source type="InsteonDevice" address="20.FD.40" channelID="1" />
-          <lastRun lastRun="4/28/2014 8:00 PM" result="Success" />
+          <lastRun lastRun="5/3/2014 8:05 PM" result="Failed" />
         </action>
       </actions>
     </script>
     <script id="3" name="Morning - Spots" enabled="True" system="False">
-      <lastRun lastRunTime="4/28/2014 6:15 AM" result="All Succeeded" />
+      <lastRun lastRunTime="5/3/2014 6:08 AM" result="All Failed" />
       <triggers>
         <trigger id="Sunrise" system="False" vary="0" offset="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 6:15 AM" result="" />
+          <lastRun lastRun="5/3/2014 6:08 AM" result="" />
         </trigger>
       </triggers>
       <conditions />
       <actions>
         <action id="TurnOff" system="False">
           <source type="InsteonDevice" address="20.FD.40" channelID="1" />
-          <lastRun lastRun="4/28/2014 6:15 AM" result="Success" />
+          <lastRun lastRun="5/3/2014 6:08 AM" result="Failed" />
         </action>
       </actions>
     </script>
@@ -2734,7 +2734,7 @@
       <triggers>
         <trigger id="TimeOfDay" system="False" time="07:00:00" vary="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 7:00 AM" result="" />
+          <lastRun lastRun="5/3/2014 7:00 AM" result="" />
         </trigger>
       </triggers>
       <conditions />
@@ -2750,7 +2750,7 @@
       <triggers>
         <trigger id="TimeOfDay" system="False" time="19:00:00" vary="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 7:00 PM" result="" />
+          <lastRun lastRun="5/3/2014 7:00 PM" result="" />
         </trigger>
       </triggers>
       <conditions />
@@ -2766,7 +2766,7 @@
       <triggers>
         <trigger id="TimeOfDay" system="False" time="23:59:00" vary="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 11:59 PM" result="" />
+          <lastRun lastRun="5/3/2014 11:59 PM" result="" />
         </trigger>
       </triggers>
       <conditions />
@@ -2782,7 +2782,7 @@
       <triggers>
         <trigger id="TimeOfDay" system="False" time="11:59:00" vary="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 11:59 AM" result="" />
+          <lastRun lastRun="5/3/2014 11:59 AM" result="" />
         </trigger>
       </triggers>
       <conditions />
@@ -2798,7 +2798,7 @@
       <triggers>
         <trigger id="TimeOfDay" system="False" time="16:50:00" vary="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 4:50 PM" result="" />
+          <lastRun lastRun="5/3/2014 4:50 PM" result="" />
         </trigger>
       </triggers>
       <conditions />
@@ -2810,22 +2810,22 @@
       </actions>
     </script>
     <script id="11" name="Sunset - Accent" enabled="True" system="False">
-      <lastRun lastRunTime="4/28/2014 8:00 PM" result="All Succeeded" />
+      <lastRun lastRunTime="5/3/2014 8:05 PM" result="All Failed" />
       <triggers>
         <trigger id="Sunset" system="False" vary="0" offset="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 8:00 PM" result="" />
+          <lastRun lastRun="5/3/2014 8:05 PM" result="" />
         </trigger>
         <trigger id="TimeOfDay" system="False" time="18:14:00" vary="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 6:14 PM" result="" />
+          <lastRun lastRun="5/3/2014 6:14 PM" result="" />
         </trigger>
       </triggers>
       <conditions />
       <actions>
         <action id="TriggerScene" system="False">
           <source type="Scene" sceneID="2" gateway="1E.4D.49" gatewayGroup="13" groupRequired="True" command="TurnOn" />
-          <lastRun lastRun="4/28/2014 8:00 PM" result="Success" />
+          <lastRun lastRun="5/3/2014 8:05 PM" result="Failed" />
         </action>
       </actions>
     </script>
@@ -2834,7 +2834,7 @@
       <triggers>
         <trigger id="Sunset" system="False" vary="0" offset="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 8:00 PM" result="" />
+          <lastRun lastRun="5/3/2014 8:05 PM" result="" />
         </trigger>
       </triggers>
       <conditions />
@@ -2850,7 +2850,7 @@
       <triggers>
         <trigger id="Sunrise" system="False" vary="0" offset="0">
           <source type="Clock" />
-          <lastRun lastRun="4/28/2014 6:15 AM" result="" />
+          <lastRun lastRun="5/3/2014 6:08 AM" result="" />
         </trigger>
       </triggers>
       <conditions />

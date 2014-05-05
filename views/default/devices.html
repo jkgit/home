@@ -1,0 +1,15 @@
+{{extend 'layout.html'}}
+{{for room in sorted(devices):}}
+	<fieldset>
+		<legend>{{=room}}</legend>
+		<ul>
+		{{for name in sorted(devices[room]):}}
+			<li>
+				{{=name}}
+				{{=A('On', callback='/home/automate/call/run/turnOnInsteonDevice/{0}'.format(devices[room][name].insteonID))}}
+				{{=A('Off', callback='/home/automate/call/run/turnOffInsteonDevice/{0}'.format(devices[room][name].insteonID))}}
+			</li>
+		{{pass}}
+		</ul>
+	</fieldset>
+{{pass}}

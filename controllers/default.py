@@ -9,6 +9,8 @@
 ## - call exposes all registered services (none by default)
 #########################################################################
 import eiscp
+import os
+from jinsteon import Device
 
 def index():
     """
@@ -20,3 +22,14 @@ def index():
     """
     response.flash = T("Welcome to Home Automator!")
     return dict(message=T('Home Automator'))
+
+def devices():
+    response.flash = T("All Insteon Devices")
+    return dict(message=T('All Insteon Devices By Name'),devices=Device.devicesTwoDimensional)
+
+def initialize():
+    devicePath = os.path.join('applications', 'home', 'private', 'devices.xml')
+    with open("log.txt", "a") as f:
+	f.write(devicePath)
+	f.write(os.getcwd())
+    Device.loadAll(devicePath)

@@ -82,11 +82,11 @@ def turnOffAudio():
 def turnOffLights():
     devicePath = os.path.join(request.folder, 'private', 'devices.xml')
     deviceId = Device(devicePath).getDeviceByRoomAndName("Movie - Lights").translate(None, '.')
-    r = requests.get('http://192.168.0.111:25105/3?0262{0}0F13FF=I=3-'.format(deviceId))
+    r = requests.get('http://192.168.0.50:25105/3?0262{0}0F13FF=I=3-'.format(deviceId))
     r.status_code
 
 def turnOnLights():
     devicePath = os.path.join(request.folder, 'private', 'devices.xml')
     deviceId = Device(devicePath).getDeviceByRoomAndName("Movie - Lights").translate(None, '.')
-    r = requests.get('http://192.168.0.111:25105/3?0262{0}0F11FF=I=3-'.format(deviceId))
+    r = requests.get('http://192.168.0.50:25105/3?0262{0}0F11FF=I=3-'.format(deviceId))
     r.status_code
